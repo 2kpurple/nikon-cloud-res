@@ -17,7 +17,7 @@ const BASE_URL = 'https://imagingcloud.nikon.com.cn';
 const TMP_DIR = path.join(__dirname, 'tmp');
 const ASSETS_DIR = path.join(__dirname, 'assets');
 const CREATORS_DIR = path.join(ASSETS_DIR, 'creator-avatars');
-const OUTPUT_FILE = path.join(ASSETS_DIR, 'creators.json');
+const OUTPUT_FILE = path.join(ASSETS_DIR, 'creators_zh.json');
 
 fs.mkdirSync(CREATORS_DIR, { recursive: true });
 

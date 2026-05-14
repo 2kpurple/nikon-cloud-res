@@ -1,0 +1,58 @@
+name: Update Creators Data
+
+on:
+  schedule:
+    # 每天 UTC 10:00 (北京时间 18:00)
+    - cron: '0 10 * * *'
+  workflow_dispatch: # 支持手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update-creators:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run scraper
+        run: node scrape-creators.js
+
+      - name: Check for changes
+        id: diff
+        run: |
+          if git diff --quiet assets/creators_zh.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes detected."
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Data updated!"
+          fi
+
+      - name: Commit and create release
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          DATE=$(date +%Y%m%d)
+          TAG="creators-${DATE}"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add assets/creators_zh.json
+          git commit -m "chore: update creators data (${DATE})"
+          git push
+
+          # 获取变更摘要
+          PREV_COUNT=$(git show HEAD:assets/creators_zh.json 2>/dev/null | node -e "process.stdin.resume(); let d=''; process.stdin.on('data', c => d+=c); process.stdin.on('end', () => { try { console.log(JSON.parse(d).length) } catch { console.log(0) } })")
+          NEW_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('assets/creators_zh.json','utf-8')).length)")
+
+          gh release create "$TAG" \
+            --title "Creators Data Update ${DATE}" \
+            --notes "Creators count: ${NEW_COUNT} (previous: ${PREV_COUNT})" \
+            --target main
