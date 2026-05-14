@@ -55,4 +55,5 @@ jobs:
           gh release create "$TAG" \
             --title "Creators Data Update ${DATE}" \
             --notes "Creators count: ${NEW_COUNT} (previous: ${PREV_COUNT})" \
-            --target main
+            --target main \
+            assets/creators_zh.json

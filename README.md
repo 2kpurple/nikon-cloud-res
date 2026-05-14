@@ -44,6 +44,6 @@ node scrape-creators.js
 
 ## 自动更新
 
-通过 GitHub Actions 每天 18:00（北京时间）自动运行爬虫。如果数据有变化，会自动提交并创建 Release。
+通过 GitHub Actions 每天 18:00（北京时间）自动运行爬虫。如果数据有变化，会自动提交并创建 Release，Release 中附带 `creators_zh.json`。
 
 也可在 GitHub → Actions → **Update Creators Data** → **Run workflow** 手动触发。
