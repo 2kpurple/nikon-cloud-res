@@ -5,7 +5,7 @@
 ## 数据来源
 
 - **目标页面**: https://imagingcloud.nikon.com.cn/recipe/release/?bookId=01HXDNN2X6N0ZHNP0WFBDF407Z
-- **数据源**: Next.js SPA 的 JS bundle（chunk 97 中的创作者结构 + _app.js 中的 i18n 映射）
+- **数据源**: Next.js SPA 的 JS bundle（动态查找包含创作者结构的 chunk + _app.js 中的 i18n 映射）
 
 ## 输出
 
