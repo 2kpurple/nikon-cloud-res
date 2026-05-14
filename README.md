@@ -7,6 +7,15 @@
 - **目标页面**: https://imagingcloud.nikon.com.cn/recipe/release/?bookId=01HXDNN2X6N0ZHNP0WFBDF407Z
 - **数据源**: Next.js SPA 的 JS bundle（动态查找包含创作者结构的 chunk + _app.js 中的 i18n 映射）
 
+## CDN 访问
+
+数据通过 jsDelivr 提供，可直接通过 URL 获取：
+
+- **创作者数据**: https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_zh.json
+- **头像图片**: https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creator-avatars/creator_fig01.png（将 `01` 替换为对应编号）
+
+> `@main` 始终指向最新内容，CI/CD 更新后自动生效。
+
 ## 输出
 
 | 文件 | 说明 |
