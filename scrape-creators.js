@@ -239,7 +239,7 @@ async function main() {
     name: c.name,
     position: c.position || null,
     bio: c.bio || null,
-    avatar: c.avatarLocalPath,
+    avatar: `${BASE_URL}${c.avatarUrl}`,
     recipes: c.recipes.map(r => ({
       name: r.name,
       id: r.detailUrl.match(/[?&]id=([A-Z0-9]+)/)?.[1] || '',
