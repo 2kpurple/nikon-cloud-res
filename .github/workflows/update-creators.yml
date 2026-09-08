@@ -24,12 +24,18 @@ jobs:
 
       - name: Reject mojibake output
         run: |
-          node -e "const s = require('fs').readFileSync('assets/creators_zh.json', 'utf8'); if (s.includes('\uFFFD')) { console.error('ERROR: output contains U+FFFD replacement characters'); process.exit(1); }"
+          node -e "
+            const fs = require('fs');
+            const files = fs.readdirSync('assets').filter(f => /^creators_.*\.json$/.test(f));
+            let bad = files.filter(f => fs.readFileSync('assets/' + f, 'utf8').includes('\uFFFD'));
+            if (bad.length) { console.error('ERROR: U+FFFD found in: ' + bad.join(', ')); process.exit(1); }
+            console.log(files.length + ' files checked, no mojibake.');
+          "
 
       - name: Check for changes
         id: diff
         run: |
-          if git diff --quiet assets/creators_zh.json; then
+          if git diff --quiet -- 'assets/creators_*.json'; then
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "No changes detected."
           else
@@ -48,16 +54,23 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add assets/creators_zh.json
+          git add assets/creators_*.json
           git commit -m "chore: update creators data (${DATE})"
           git push
 
-          # 获取变更摘要
-          PREV_COUNT=$(git show HEAD:assets/creators_zh.json 2>/dev/null | node -e "process.stdin.resume(); let d=''; process.stdin.on('data', c => d+=c); process.stdin.on('end', () => { try { console.log(JSON.parse(d).length) } catch { console.log(0) } })")
-          NEW_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('assets/creators_zh.json','utf-8')).length)")
+          SUMMARY=$(node -e "
+            const fs = require('fs');
+            const lines = fs.readdirSync('assets')
+              .filter(f => /^creators_.*\.json$/.test(f))
+              .map(f => {
+                const d = JSON.parse(fs.readFileSync('assets/' + f, 'utf8'));
+                return '- ' + f + ': ' + d.length + ' creators, ' + d.reduce((n, c) => n + c.recipes.length, 0) + ' recipes';
+              });
+            console.log(lines.join('\n'));
+          ")
 
           gh release create "$TAG" \
             --title "Creators Data Update ${DATE}" \
-            --notes "Creators count: ${NEW_COUNT} (previous: ${PREV_COUNT})" \
+            --notes "$SUMMARY" \
             --target main \
-            assets/creators_zh.json
+            assets/creators_*.json
