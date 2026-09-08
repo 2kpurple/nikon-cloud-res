@@ -30,9 +30,11 @@ function fetch(url) {
       if (res.statusCode === 301 || res.statusCode === 302) {
         return fetch(res.headers.location).then(resolve, reject);
       }
-      let data = '';
-      res.on('data', (chunk) => (data += chunk));
-      res.on('end', () => resolve(data));
+      // 攒齐原始字节后统一解码：按包 toString 会把被包边界切开的多字节
+      // UTF-8 字符解码成 U+FFFD 乱码
+      const chunks = [];
+      res.on('data', (chunk) => chunks.push(chunk));
+      res.on('end', () => resolve(Buffer.concat(chunks).toString('utf8')));
     });
     req.on('error', reject);
   });
@@ -144,8 +146,8 @@ function extractZhCnI18nMap(content) {
   while ((match = pattern.exec(zhSection)) !== null) {
     const [, id, suffix, value] = match;
     const key = `ID-NC-VF0502_WID${id}_${suffix}`;
-    map[key] = value.replace(/\\u([\da-fA-F]{4})/g, (_, hex) =>
-      String.fromCharCode(parseInt(hex, 16))
+    map[key] = value.replace(/\\u([\da-fA-F]{4})|\\x([\da-fA-F]{2})/g, (_, u4, x2) =>
+      String.fromCharCode(parseInt(u4 || x2, 16))
     );
   }
 
