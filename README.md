@@ -49,9 +49,22 @@
 
 数据通过 jsDelivr 提供,`@main` 始终指向最新内容:
 
-- **中国站简中**: https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_cn_zh.json
-- **旧版兼容 URL**: https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_zh.json
-- **国际站任意语言**: 将上方 URL 中的文件名替换为如 `creators_intl_en.json`、`creators_intl_ja.json` 等
+| 站点 | 语言 | URL |
+|---|---|---|
+| 中国站 | 简体中文 | https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_cn_zh.json |
+| 中国站 | 简体中文(旧版兼容) | https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_zh.json |
+| 国际站 | 简体中文 | https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_intl_zh.json |
+| 国际站 | 繁体中文 | https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_intl_zh_tw.json |
+| 国际站 | English | https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_intl_en.json |
+| 国际站 | 日本語 | https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_intl_ja.json |
+| 国际站 | 한국어 | https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_intl_ko.json |
+| 国际站 | Deutsch | https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_intl_de.json |
+| 国际站 | Français | https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_intl_fr.json |
+| 国际站 | Español | https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_intl_es.json |
+| 国际站 | Italiano | https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_intl_it.json |
+| 国际站 | Nederlands | https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_intl_nl.json |
+| 国际站 | Türkçe | https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_intl_tr.json |
+| 国际站 | Русский | https://cdn.jsdelivr.net/gh/2kpurple/nikon-cloud-res@main/assets/creators_intl_ru.json |
 
 ## 本地运行
 
