@@ -9,7 +9,14 @@
 | 中国站 | `imagingcloud.nikon.com.cn` | `creators_cn_zh.json`(简中) |
 | 国际站 | `imagingcloud.nikon.com` | `creators_intl_{lang}.json` × 12 种语言 |
 
-两站均为 Next.js SPA,无公开接口。爬虫流程:下载页面引用的 JS chunk → 在 `_app.js` 中按语言标记(WID1185_2 各语言文案)切出 12 个 i18n 段落 → 在数据 chunk 中定位创作者结构(头像 + i18n key + 各语言详情页 URL)→ 合并输出。
+两站均为 Next.js SPA,创作者数据无公开接口。爬虫流程:下载页面引用的 JS chunk → 在 `_app.js` 中按语言标记(WID1185_2 各语言文案)切出 12 个 i18n 段落 → 在数据 chunk 中定位创作者结构(头像 + i18n key + 各语言详情页 URL)→ 合并输出。
+
+**方案 id 与"按语言分书"**:release 服务端按语言分书,每种语言一本书、一套独立的资源 id
+(跨语言 id 零重叠)。站点静态数据里每个方案携带分语言的详情页 URL,天然指向该语言的书,
+故 JSON 里各语言文件的 `id` 直接取自对应语言的 URL,与该语言 release 接口
+(空 `bookId` + `lang_code`)返回的 id 一致,客户端按 id 关联即可,无需名称匹配。
+注意 `lang_code` 必须是 BCP-47 连字符格式(如 `zh-cn`/`zh-tw`),传 `zh`、`zh_tw`
+等变体不报错但会静默回落到英文书(Imaging Recipes),拿到的是另一套 id。
 
 说明:
 
@@ -35,7 +42,7 @@
     "recipes": [
       {
         "name": "色彩方案名称",
-        "id": "recipe detail 页面 ID",
+        "id": "该语言 release 书的方案 id(与 App 请求同语言接口返回的 id 一致)",
         "detailUrl": "/recipe/release/detail/?id=xxx"
       }
     ]
@@ -43,7 +50,9 @@
 ]
 ```
 
-`detailUrl` 是对应语言站点的相对路径,拼上站点域名即可访问。
+`detailUrl` 是对应语言站点的相对路径,拼上站点域名即可访问。`id` 与同语言
+release 接口(空 `bookId` + 该语言 `lang_code`)返回的 id 一致,客户端直接按
+id 关联 release 列表数据即可。
 
 ## CDN 访问
 

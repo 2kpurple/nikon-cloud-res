@@ -11,6 +11,10 @@
  *         intl = imagingcloud.nikon.com
  *   语言: de en es fr it ja zh zh_tw ko nl tr ru
  *
+ * 方案 id 说明: release 服务端按语言分书(每种语言一本书、一套独立资源 id),
+ * 站点静态数据里每个方案的分语言详情 URL 天然指向该语言的书,故直接取
+ * URL 中的 id 即可,无需也无法对齐到某一本"统一的书"。
+ *
  * 用法: node scrape-creators.js
  */
 
@@ -80,9 +84,18 @@ function fetch(url) {
 }
 
 function unescapeJsEscapes(s) {
-  return s.replace(/\\u([\da-fA-F]{4})|\\x([\da-fA-F]{2})/g, (_, u4, x2) =>
-    String.fromCharCode(parseInt(u4 || x2, 16))
-  );
+  // \uXXXX / \xXX 为站点实际在用的转义;引号反斜杠的转义残留(如 D\'Ann)也一并还原。
+  // 引号类替换循环到稳定: 源码里 D\\'Ann 这种双重转义,单次替换会留下 \' 残字
+  let prev;
+  do {
+    prev = s;
+    s = s
+      .replace(/\\u([\da-fA-F]{4})|\\x([\da-fA-F]{2})/g, (_, u4, x2) =>
+        String.fromCharCode(parseInt(u4 || x2, 16))
+      )
+      .replace(/\\(['"\\/])/g, '$1');
+  } while (s !== prev);
+  return s;
 }
 
 // --- 从 HTML 提取 JS chunk 路径 ---
