@@ -123,6 +123,7 @@ async function pooledMap(items, limit, fn) {
 // --- 图片库:内容哈希存储 + manifest 增量 ---
 const imageStore = {
   manifest: new Map(), // 源对象key(host+path) -> { hash, ext, bytes } | { skipped: 'oversize' }
+  knownHashes: new Set(), // 已落盘的内容 hash(O(1) 去重判断;Map.values() 是迭代器,不能直接 some)
   newCount: 0,
   skipCount: 0,
   hitCount: 0,
@@ -135,9 +136,8 @@ const imageStore = {
       const m = JSON.parse(fs.readFileSync(MANIFEST_FILE, 'utf8'));
       for (const [k, v] of Object.entries(m)) this.manifest.set(k, v);
     }
-    const seen = new Set();
     for (const v of this.manifest.values()) {
-      if (v.hash && !seen.has(v.hash)) { seen.add(v.hash); this.totalBytes += v.bytes; }
+      if (v.hash && !this.knownHashes.has(v.hash)) { this.knownHashes.add(v.hash); this.totalBytes += v.bytes; }
     }
   },
 
@@ -201,10 +201,11 @@ const imageStore = {
     const ext = this.extOf(res.contentType, url);
     const entry = { hash, ext, bytes: res.buf.length };
 
-    if (!this.manifest.values().some((v) => v.hash === hash && v.bytes === entry.bytes)) {
+    if (!this.knownHashes.has(hash)) {
       if (this.totalBytes + res.buf.length > MAX_TOTAL_IMAGE_BYTES) {
         throw new Error(`图片总量超过护栏 ${MAX_TOTAL_IMAGE_BYTES}B,中止(当前 ${this.totalBytes}B)`);
       }
+      this.knownHashes.add(hash);
       this.totalBytes += res.buf.length;
       const file = path.join(IMG_DIR, hash.slice(0, 2), `${hash}${ext}`);
       fs.mkdirSync(path.dirname(file), { recursive: true });
