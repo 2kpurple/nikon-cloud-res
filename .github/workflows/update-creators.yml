@@ -12,6 +12,7 @@ permissions:
 jobs:
   update-creators:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
@@ -26,8 +27,12 @@ jobs:
         run: |
           node -e "
             const fs = require('fs');
-            const files = fs.readdirSync('assets').filter(f => /^creators_.*\.json$/.test(f));
-            let bad = files.filter(f => fs.readFileSync('assets/' + f, 'utf8').includes('\uFFFD'));
+            const files = [];
+            (function walk(p) {
+              if (fs.statSync(p).isDirectory()) { fs.readdirSync(p).forEach(f => walk(p + '/' + f)); return; }
+              if (p.endsWith('.json')) files.push(p);
+            })('assets');
+            let bad = files.filter(f => fs.readFileSync(f, 'utf8').includes('\uFFFD'));
             if (bad.length) { console.error('ERROR: U+FFFD found in: ' + bad.join(', ')); process.exit(1); }
             console.log(files.length + ' files checked, no mojibake.');
           "
@@ -35,7 +40,7 @@ jobs:
       - name: Check for changes
         id: diff
         run: |
-          if git diff --quiet -- 'assets/creators_*.json'; then
+          if git diff --quiet -- assets/ && [ -z "$(git ls-files --others --exclude-standard assets/)" ]; then
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "No changes detected."
           else
@@ -54,18 +59,27 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add assets/creators_*.json
+          git add assets/
           git commit -m "chore: update creators data (${DATE})"
           git push
 
           SUMMARY=$(node -e "
             const fs = require('fs');
-            const lines = fs.readdirSync('assets')
-              .filter(f => /^creators_.*\.json$/.test(f))
-              .map(f => {
-                const d = JSON.parse(fs.readFileSync('assets/' + f, 'utf8'));
-                return '- ' + f + ': ' + d.length + ' creators, ' + d.reduce((n, c) => n + c.recipes.length, 0) + ' recipes';
-              });
+            const lines = [];
+            for (const f of fs.readdirSync('assets').filter(f => f.endsWith('.json')).sort()) {
+              const d = JSON.parse(fs.readFileSync('assets/' + f, 'utf8'));
+              if (Array.isArray(d)) {
+                lines.push('- ' + f + ': ' + d.length + ' creators, ' + d.reduce((n, c) => n + c.recipes.length, 0) + ' recipes');
+              } else if (d.recipes) {
+                lines.push('- ' + f + ': book \"' + (d.label || d.bookId) + '\", ' + d.recipes.length + ' recipes');
+              }
+            }
+            const manifest = JSON.parse(fs.readFileSync('assets/img/manifest.json', 'utf8'));
+            const hashes = new Set(Object.values(manifest).map(v => v.hash).filter(Boolean));
+            const bytes = Object.values(manifest).reduce((n, v) => n + (v.hash ? v.bytes : 0), 0);
+            lines.push('- images: ' + hashes.size + ' unique, ' + (bytes / 1024 / 1024).toFixed(1) + 'MB');
+            const details = fs.readdirSync('assets/details', { recursive: true }).filter(f => f.endsWith('.json'));
+            lines.push('- details: ' + details.length + ' snapshots');
             console.log(lines.join('\n'));
           ")
 
@@ -73,4 +87,4 @@ jobs:
             --title "Creators Data Update ${DATE}" \
             --notes "$SUMMARY" \
             --target main \
-            assets/creators_*.json
+            assets/creators_*.json assets/book_*.json
