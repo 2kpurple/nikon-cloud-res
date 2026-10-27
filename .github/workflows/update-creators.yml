@@ -75,9 +75,10 @@ jobs:
               }
             }
             const manifest = JSON.parse(fs.readFileSync('assets/img/manifest.json', 'utf8'));
-            const hashes = new Set(Object.values(manifest).map(v => v.hash).filter(Boolean));
-            const bytes = Object.values(manifest).reduce((n, v) => n + (v.hash ? v.bytes : 0), 0);
-            lines.push('- images: ' + hashes.size + ' unique, ' + (bytes / 1024 / 1024).toFixed(1) + 'MB');
+            const byHash = new Map();
+            for (const v of Object.values(manifest)) if (v.hash) byHash.set(v.hash, v.bytes);
+            let bytes = 0; for (const b of byHash.values()) bytes += b;
+            lines.push('- images: ' + byHash.size + ' unique, ' + (bytes / 1024 / 1024).toFixed(1) + 'MB');
             const details = fs.readdirSync('assets/details', { recursive: true }).filter(f => f.endsWith('.json'));
             lines.push('- details: ' + details.length + ' snapshots');
             console.log(lines.join('\n'));
