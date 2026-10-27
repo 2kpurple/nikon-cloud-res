@@ -4,24 +4,27 @@
 
 ## 数据来源
 
-| 站点 | 域名 | 输出 |
+| 站点 | 接口域名 | 输出 |
 |---|---|---|
-| 中国站 | `imagingcloud.nikon.com.cn` | `creators_cn_zh.json`(简中) |
-| 国际站 | `imagingcloud.nikon.com` | `creators_intl_{lang}.json` × 12 种语言 |
+| 中国站 | `api.user.ir.imagingcloud.nikon.com.cn` | `creators_cn_zh.json`(简中) |
+| 国际站 | `api.user.ir.imagingcloud.nikon.com` | `creators_intl_{lang}.json` × 12 种语言 |
 
-两站均为 Next.js SPA,创作者数据无公开接口。爬虫流程:下载页面引用的 JS chunk → 在 `_app.js` 中按语言标记(WID1185_2 各语言文案)切出 12 个 i18n 段落 → 在数据 chunk 中定位创作者结构(头像 + i18n key + 各语言详情页 URL)→ 合并输出。
+站点前端改版后(2026-10),创作者数据不再打进 Next.js 静态 chunk,改由匿名接口提供:
+`GET /info/creator`,带 `Accept-Language` 头即可获取对应语言的完整数据
+(名称/职业/简介/头像 URL/方案列表,方案以 `/publicrecipe/<bookId>/<recipeId>` 路径给出)。
+爬虫逐站点逐语言请求该接口,`recipeId` 即详情页 `?id=` 参数,直接映射输出。
 
 **方案 id 与"按语言分书"**:release 服务端按语言分书,每种语言一本书、一套独立的资源 id
-(跨语言 id 零重叠)。站点静态数据里每个方案携带分语言的详情页 URL,天然指向该语言的书,
-故 JSON 里各语言文件的 `id` 直接取自对应语言的 URL,与该语言 release 接口
-(空 `bookId` + `lang_code`)返回的 id 一致,客户端按 id 关联即可,无需名称匹配。
-注意 `lang_code` 必须是 BCP-47 连字符格式(如 `zh-cn`/`zh-tw`),传 `zh`、`zh_tw`
-等变体不报错但会静默回落到英文书(Imaging Recipes),拿到的是另一套 id。
+(跨语言 id 零重叠)。`/info/creator` 按 `Accept-Language` 返回的就是对应语言书的 id,
+与该语言 release 接口(空 `bookId` + `lang_code`)返回的 id 一致,客户端按 id 关联即可,
+无需名称匹配。注意客户端调 release 接口时 `lang_code` 必须是 BCP-47 连字符格式
+(如 `zh-cn`/`zh-tw`),传 `zh`、`zh_tw` 等变体不报错但会静默回落到英文书(Imaging
+Recipes),拿到的是另一套 id。
 
 说明:
 
-- **CN 站只输出简中**:其多语言数据不完整(仅国际共享的 32/66 位创作者有译文,较新的色彩方案也只有中文 URL),完整多语言数据统一从国际站获取
-- 国际站个别字段缺失译文时(如 Brandon Woelfel 的俄语名),回退英文
+- **CN 站只输出简中**:其接口仅接受 `Accept-Language: zh-cn`,其余语言返回空;完整多语言数据统一从国际站获取
+- 各语言内容由尼康接口按 `Accept-Language` 直接给出,个别字段某语言无译文时以接口返回为准
 - 头像不入仓库:JSON 的 `avatar` 字段已指向站点完整 URL,客户端直接加载即可
 
 ## 输出
@@ -38,7 +41,7 @@
     "name": "创作者名称",
     "position": "职业",
     "bio": "简介",
-    "avatar": "https://imagingcloud.nikon.com.cn/img/recipe/release/creator_figXX.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com.cn/public/creator/<creatorId>/<creatorId>.png",
     "recipes": [
       {
         "name": "色彩方案名称",

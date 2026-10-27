@@ -1,9 +1,35 @@
 [
   {
+    "name": "Choi matae",
+    "position": "Content-Creator",
+    "bio": "Choi matae erstellt unterhaltsame Inhalte, welche die Fotografie auf spielerische und spannende Weise präsentieren. Seit 2016 produziert er eine breite Palette an Beiträgen für soziale Medien und ist dabei sowohl in Korea als auch in Japan tätig. Mit seiner ganz eigenen Perspektive blickt er bei der Gestaltung seiner Beiträge direkt in die Kamera und ist stets bestrebt, alle für die Fotografie zu begeistern.",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCZ2HT6YF3984V1FPPYKTE/01M4WCZ2HT6YF3984V1FPPYKTE.png",
+    "recipes": [
+      {
+        "name": "Mate Film by Choi matae",
+        "id": "01M4SD5NSCB050GM6N0QWEM4MN",
+        "detailUrl": "/recipe/release/detail/?id=01M4SD5NSCB050GM6N0QWEM4MN"
+      }
+    ]
+  },
+  {
+    "name": "Yinukhi",
+    "position": "Content-Creator",
+    "bio": "In der Überzeugung, dass Fotografie echte Verbundenheit zwischen Menschen schaffen kann, arbeitet Yinukhi seit 2011 als Fotograf und Filmemacher und pendelt dabei zwischen Südkorea und Dänemark.",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WDZR85GPMFE1V97R104Y68/01M4WDZR85GPMFE1V97R104Y68.png",
+    "recipes": [
+      {
+        "name": "Mid-Spring by Yinukhi",
+        "id": "01M4SD5NZ811AH27HTMXJ1D47T",
+        "detailUrl": "/recipe/release/detail/?id=01M4SD5NZ811AH27HTMXJ1D47T"
+      }
+    ]
+  },
+  {
     "name": "Amy Shore",
     "position": "Fotografin",
     "bio": "Amy Shore ist eine freiberufliche Automobil- und Lifestyle-Fotografin, die in Großbritannien lebt. Sie fotografiert ausschließlich mit natürlichem Licht, weshalb sie vor allem Festbrennweiten-Objektive einsetzt. Viele ihrer Motive sind Oldtimer auf Roadtrips, daher ist sie stets bestrebt, Emotionen einzufangen und nicht nur Bilder von Autos auf malerischen Straßen zu produzieren.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig60.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WAAQ1CFXNCY7JNM7FPTESA/01M4WAAQ1CFXNCY7JNM7FPTESA.png",
     "recipes": [
       {
         "name": "Vintage Touch by Amy Shore",
@@ -16,7 +42,7 @@
     "name": "MASAYA",
     "position": "Fotografierender Papa",
     "bio": "Als »fotografierender Papa« teilt MASAYA wertvolle Momente vom Heranwachsen seines Kindes sowie Familienerinnerungen in den sozialen Medien. Im Mittelpunkt seines Schaffens steht das Motto »Familienfotos wie Seiten aus einem Bilderbuch«. Seine einzigartige Perspektive und Ausdrucksweise findet bei Eltern kleiner Kinder, bei Eltern, deren Kinder »flügge« geworden sind, und bei Großeltern gleichermaßen Anklang.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig65.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WBV9YC7EWYQ107RE2FTK8E/01M4WBV9YC7EWYQ107RE2FTK8E.png",
     "recipes": [
       {
         "name": "Honey Tale by MASAYA",
@@ -29,7 +55,7 @@
     "name": "Nagisa Ichikawa",
     "position": "Creative Director/Fotografin",
     "bio": "Nagisa Ichikawa studierte Modedesign und arbeitete im Marketing für eine internationale Luxusmarke, bevor sie sich selbstständig machte. Mit einer ausgewogenen Mischung aus Intuition und Systematik entwirft sie Marken- und Erlebniswelten sowie Kommunikationskonzepte. Seit kurzem nutzt sie die Fotografie, um Ausdrucksformen in verschiedenen Medien wie Filmen und Texten zu erforschen, die beim Betrachter zu einem besseren Verständnis und einem bleibenden Eindruck führen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig62.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WBWEX2175FEZC04ZCJ0NCT/01M4WBWEX2175FEZC04ZCJ0NCT.png",
     "recipes": [
       {
         "name": "QUIET by Nagisa Ichikawa",
@@ -47,7 +73,7 @@
     "name": "jyota tomonori",
     "position": "Fotograf",
     "bio": "jyota tomonori – er liebt Kameras und Pflanzen – hat jeden Tag eine Kamera dabei, um Szenen aus dem Leben seiner Frau und seiner Tochter festzuhalten. Nach seinem Universitätsabschluss arbeitete er zunächst als angestellter Hochzeitsfotograf und ist nun freiberuflich tätig. Bis heute hat er über 700 Paare vor und während der Hochzeit fotografiert. Außerdem übernimmt er Aufträge für Werbung, Firmenfotos und Buchveröffentlichungen, zudem verkauft er eigene Bildverarbeitungs-Voreinstellungen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig61.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WBXPN5RTDZBSE525HWF4S9/01M4WBXPN5RTDZBSE525HWF4S9.png",
     "recipes": [
       {
         "name": "Bluegrain by jyota tomonori",
@@ -60,7 +86,7 @@
     "name": "HYEYA",
     "position": "Fotografin",
     "bio": "Seit ihrer Kindheit hat HYEYA durch die Beschäftigung mit der Kunst eine Grundlage für ihren visuellen Ausdruck erarbeitet. Mit der Zeit fühlte sie sich zunehmend von der Faszination der Fotografie angezogen und fand schließlich ihren eigenen Weg als Fotografin. Ihre Inspiration bezieht sie weniger aus Landschaften, sondern eher aus Porträts – sie hält durch Blickkontakte und Gespräche Momente echter Verbundenheit fest. Ihr Ziel sind Fotografien, die klar und rein wirken, ähnlich wie Aquarelle, in denen Licht und Gefühle in natürlicher Weise zum Ausdruck kommen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig63.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WBYK2WKYCVTC89NWM3W4T0/01M4WBYK2WKYCVTC89NWM3W4T0.png",
     "recipes": [
       {
         "name": "Pink Watercolor by HYEYA",
@@ -73,7 +99,7 @@
     "name": "Kyungjun Lee",
     "position": "Fotograf",
     "bio": "Kyungjun Lee ist ein in New York lebender Fotograf, der Szenen einfängt, die von Städten und Menschen geprägt sind. Er konzentriert sich auf den unterschwelligen Alltagsrhythmus und präsentierte 2023 seine Einzelausstellung »One Step Away« und 2024 seine Monografie »Every Reflection«.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig64.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WBZCDDQSE6VNJFX5Z1B23X/01M4WBZCDDQSE6VNJFX5Z1B23X.png",
     "recipes": [
       {
         "name": "Golden Grid by Kyungjun Lee",
@@ -86,7 +112,7 @@
     "name": "Nikon | RED",
     "position": null,
     "bio": "Die Kombination aus RED- und Nikon-Technologie hat einzigartige und reizvolle Ausdrucksmittel geschaffen, die es bisher so noch nicht gab. Wir werden Ihnen unvergleichliche Rezepte an die Hand geben, mit denen Sie Ihre Kreativität voll entfalten können.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig56.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC04YDR84623JKX84WW0JM/01M4WC04YDR84623JKX84WW0JM.png",
     "recipes": [
       {
         "name": "CineBias by RED",
@@ -139,7 +165,7 @@
     "name": "Instant Film Studio",
     "position": "Film-Video-Studio",
     "bio": "Instant Film Studio wurde 2013 gegründet und ist seitdem Vorreiter bei der Verschmelzung von kinematografischen Bildern mit einer dokumentarischen Sichtweise. Unsere Arbeit widmet sich der Vermittlung von Emotionen und menschlichen Beziehungen durch unsere ikonische Bildsprache. Wir konzentrieren uns auf die technische Weiterentwicklung und stecken viel Aufwand in die Feinabstimmung der Kameras, in Farbraum-Management, Motion Capture und Sound-Design, um die Fähigkeiten unseres außergewöhnlichen Teams zu optimieren. Unsere speziell entwickelten LUTs (Lookup-Tabellen) sind ebenfalls zu einem beliebten Produkt auf dem Markt geworden. Wir glauben, dass eine Hochzeitszeremonie einer Oper ähnelt – bedeutungsvoll und besonders für alle Beteiligten. Technologie ist unsere Grundlage, aber Emotionen sind unsere Seele. Mit unseren Bildern würdigen wir jede Liebesgeschichte, die in Erinnerung bleiben sollte.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig59.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC0ZX0G1HDZFAB9E36KEXZ/01M4WC0ZX0G1HDZFAB9E36KEXZ.png",
     "recipes": [
       {
         "name": "Movie Green Orange by Instant Film Studio",
@@ -152,7 +178,7 @@
     "name": "Ludwig Favre",
     "position": "Fotograf",
     "bio": "Ludwig Favre ist ein französischer Fotograf, der für seine lebendigen, cineastischen Bilder bekannt ist, die von den warmen Farben und der Nostalgie alter Filme inspiriert sind. Mit seinen Werken fängt er poetische Momente ein und verwandelt alltägliche Szenen in zeitlose, stimmungsvolle Kompositionen, die den Betrachter in eine Welt voller Retro-Charme entführen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig57.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC1RDCMVFGAC702C12435W/01M4WC1RDCMVFGAC702C12435W.png",
     "recipes": [
       {
         "name": "VINTAGE FILM by Ludwig Favre",
@@ -165,7 +191,7 @@
     "name": "Siinapse",
     "position": "Fotograf/Videofilmer",
     "bio": "Siinapse ist ein freiberuflicher Fotograf und Videofilmer, der in Paris lebt und sich auf Mode und Lifestyle spezialisiert hat. Die meisten seiner Arbeiten entstehen im Freien, wo er sich von der Umgebung und seinen pariserischen und afroamerikanischen Kultureinflüssen inspirieren lässt, um seine Models besonders gut in Szene zu setzen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig58.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC2F7Z5Z8X1YZTVY8871DD/01M4WC2F7Z5Z8X1YZTVY8871DD.png",
     "recipes": [
       {
         "name": "Golden Brown by Siinapse",
@@ -178,7 +204,7 @@
     "name": "yomowasa",
     "position": "Fotografin",
     "bio": "Geboren 1981 in der japanischen Präfektur Kanagawa, lebt sie derzeit mit ihrem Partner und ihren beiden Katzen in Tokio. Seit die Haustiere im Jahr 2013 in ihr Leben traten, teilt sie Fotos von ihnen auf Instagram und dokumentiert ihre gemeinsamen Momente im Alltag. Ihre Fotografie konzentriert sich auf Katzen und vertraute alltägliche Motive. Sie legt großen Wert darauf, eine nostalgische Atmosphäre zu schaffen, und verwendet oft filmartige Körnigkeit und sanfte, zarte Farben, um dieses Gefühl hervorzurufen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig54.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC371DV6G9S0AVBH2M3JQ9/01M4WC371DV6G9S0AVBH2M3JQ9.png",
     "recipes": [
       {
         "name": "Café Cat by yomowasa",
@@ -195,8 +221,8 @@
   {
     "name": "24Frames",
     "position": "Promi-Video-Produktionsteam",
-    "bio": "24Frames begann 2004 mit einer einfachen Wunschvorstellung: filmische Momente aus dem Alltag zu kreieren. In den letzten zwei Jahrzehnten haben wir Hochzeiten, Dokumentationen, Werbefilme, Reality-Shows und maßgeschneiderte Projekte für Prominente gefilmt, wobei wir stets neue Dimensionen des visuellen Storytellings erkundet haben.Die Leidenschaft für das Filmemachen und die Kreativität, die hinter jeder Geschichte steht, prägen weiterhin alles, was wir tun.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig55.png",
+    "bio": "24Frames begann 2004 mit einer einfachen Wunschvorstellung: filmische Momente aus dem Alltag zu kreieren. In den letzten zwei Jahrzehnten haben wir Hochzeiten, Dokumentationen, Werbefilme, Reality-Shows und maßgeschneiderte Projekte für Prominente gefilmt, wobei wir stets neue Dimensionen des visuellen Storytellings erkundet haben.\nDie Leidenschaft für das Filmemachen und die Kreativität, die hinter jeder Geschichte steht, prägen weiterhin alles, was wir tun.",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC4DPAZEKHG2RGC6DDF59Z/01M4WC4DPAZEKHG2RGC6DDF59Z.png",
     "recipes": [
       {
         "name": "24Look by 24Frames",
@@ -209,7 +235,7 @@
     "name": "Eeva Makinen",
     "position": "Naturfotografin",
     "bio": "Eeva ist Naturfotografin und lebt in Kuusamo, Finnland. Neben der Fotografie schreibt sie auch und leitet Fotoreisen. Seit 2017 arbeitet sie mit Nikon zusammen und ist Nikon Creator. Sie liebt es, für ihre Bilder nach traumhaftem Licht zu suchen, und die Inspiration für ihre Fotos findet sie in der Umgebung ihres Zuhauses.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig47.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC52FQDV8RGDA1CC8XT4XS/01M4WC52FQDV8RGDA1CC8XT4XS.png",
     "recipes": [
       {
         "name": "Winter Hues by Eeva",
@@ -222,7 +248,7 @@
     "name": "Eyes Of Belga",
     "position": "Fotograf",
     "bio": "Eyes Of Belga ist ein leidenschaftlicher Fotograf, dessen Arbeiten ein besonderes Bewusstsein für die französische Kunst widerspiegeln. Angetrieben von Neugier und Kreativität fängt Eyes Of Belga Momente ein, die Geschichten erzählen – sei es durch lebendige Straßenszenen, ausdrucksstarke Porträts oder detailreiche Studien des Alltagslebens. Seine Fotografie zeichnet sich durch ein ausgeprägtes Gespür für Komposition und ein Auge für natürliches Licht aus, wodurch jedes Bild eine unverwechselbare Stimmung und Atmosphäre erhält. Immer wieder inspiriert von seiner Umgebung und dem kulturellen Erbe, zeigt Eyes Of Belga in seinem Portfolio eine vielseitige und sich weiterentwickelnde Vision, die ihn zu einer faszinierenden Persönlichkeit in der zeitgenössischen Fotoszene macht.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig48.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC5S1S3QEAK1Q4DPFPCBC8/01M4WC5S1S3QEAK1Q4DPFPCBC8.png",
     "recipes": [
       {
         "name": "Cyanora by Eyes Of Belga",
@@ -234,8 +260,8 @@
   {
     "name": "Marcello Zerletti",
     "position": "Fotograf/Content-Creator/Buchautor",
-    "bio": "Dank der Kamera von meinem Schwiegervater habe ich 2010 angefangen, mich für die Fotografie zu interessieren. Ich habe mit Blumen und Tieren angefangen, habe mich mit Portraits probiert und jetzt bin ich hier. Ich habe Fotografie nie gelernt und habe mich immer von meiner Intuition, meiner Leidenschaft und meinem Gefühl treiben lassen und viel ausprobiert.Neben der Tätigkeit für diverse Firmen in den Bereichen Automobil, Reisen und Architektur, bin ich am liebsten in meiner Heimatstadt Berlin unterwegs und fotografiere alles, was mir vor die Linse kommt und was ich als schön empfinde.Ganz früh am Morgen mit meiner Kamera nach draußen zu gehen, aufzustehen, wenn alles schläft, und einzufangen, was sonst unsichtbar geblieben wäre, gibt mir einfach das Gefühl, vollständig zu sein.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig49.png",
+    "bio": "Dank der Kamera von meinem Schwiegervater habe ich 2010 angefangen, mich für die Fotografie zu interessieren. Ich habe mit Blumen und Tieren angefangen, habe mich mit Portraits probiert und jetzt bin ich hier. Ich habe Fotografie nie gelernt und habe mich immer von meiner Intuition, meiner Leidenschaft und meinem Gefühl treiben lassen und viel ausprobiert.\nNeben der Tätigkeit für diverse Firmen in den Bereichen Automobil, Reisen und Architektur, bin ich am liebsten in meiner Heimatstadt Berlin unterwegs und fotografiere alles, was mir vor die Linse kommt und was ich als schön empfinde.\nGanz früh am Morgen mit meiner Kamera nach draußen zu gehen, aufzustehen, wenn alles schläft, und einzufangen, was sonst unsichtbar geblieben wäre, gibt mir einfach das Gefühl, vollständig zu sein.",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC6MNG4QE3W3E2B6R3G6N4/01M4WC6MNG4QE3W3E2B6R3G6N4.png",
     "recipes": [
       {
         "name": "Summertime by Marcello Zerletti",
@@ -248,10 +274,10 @@
     "name": "Francois Lamoureux",
     "position": "Filmemacher/Fotograf",
     "bio": "Francois Lamoureux ist ein vielseitiger und leidenschaftlicher Filmemacher und Fotograf. Francois erzählt Geschichten mithilfe von Fotos und bewegten Bildern in einem ausgeprägt cineastischen Stil.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig50.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC7DXFTSHBTYT38F5DWEPV/01M4WC7DXFTSHBTYT38F5DWEPV.png",
     "recipes": [
       {
-        "name": "Vibrant 2383 by Francois Lamoureux ",
+        "name": "Vibrant 2383 by Francois Lamoureux",
         "id": "01K5QG0MGEVY51XX03ZBA2FYYC",
         "detailUrl": "/recipe/release/detail/?id=01K5QG0MGEVY51XX03ZBA2FYYC"
       }
@@ -261,7 +287,7 @@
     "name": "Kimura Hinami",
     "position": "Fotografin",
     "bio": "Kimura wurde 1996 in der japanischen Präfektur Hyogo geboren. Während ihres Studiums kaufte sie eine Spiegelreflexkamera und entdeckte ihre Freude am Fotografieren. Sie fängt wunderschöne, verborgene Alltags-Szenen ein, an denen die meisten vorbeigehen, und teilt deren Reiz in den sozialen Medien. Außerdem verkauft sie ihre eigenen Fotobücher und Postkarten.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig51.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC862AZRMR0CW90EVRC58N/01M4WC862AZRMR0CW90EVRC58N.png",
     "recipes": [
       {
         "name": "Faded Blue Film by Kimura Hinami",
@@ -279,7 +305,7 @@
     "name": "Kazu Fujisawa",
     "position": "Fotograf",
     "bio": "Fujisawa ist Fotograf und stammt aus der japanischen Stadt Kobe. Er ist auf Mode, Musik und Entertainment spezialisiert, und stellt seine Fotografien in Ausstellungen in Japan und auf der ganzen Welt aus. Bei jeder Veröffentlichung eines seiner neuen Fotobücher werden allein aufgrund der Ankündigung in den sozialen Medien etwa 300 Exemplare verkauft. Fujisawa begann während der Corona-Pandemie zu fotografieren und hat deshalb die große Bedeutung von Präsenzveranstaltungen schätzen gelernt. Deshalb beteiligt er sich an verschiedenen Aktivitäten, wie Vorträgen, der Organisation von Fotoexkursionen und der Planung und Ausrichtung von Events, die Fotografie, Musik und Märkte mit mehr als 100 Ausstellern zusammenbringen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig52.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC8VK0TXTCKC5PGPG5KVJB/01M4WC8VK0TXTCKC5PGPG5KVJB.png",
     "recipes": [
       {
         "name": "Vintage Portrait by Kazu Fujisawa",
@@ -302,7 +328,7 @@
     "name": "Wong",
     "position": "Fotografin",
     "bio": "Wong ist eine freischaffende Porträtfotografin, die sich auf den eigentlichen Sinn des Fotografierens von Personen und die Schaffung einer emotionalen Beziehung konzentriert. Sie hofft, mit ihren fotografischen Arbeiten die Kraft der Erkenntnis des wahren Selbst zu vermitteln. Wong versteht es, die Emotionen von Personen einzufangen und das Spiel von Licht und Schatten in naturgetreuen Szenen festzuhalten. Mit der Fotografie beschäftigt sie sich intensiv seit 2019.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig53.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC9QPSR2V0HFKZSRQH4CT8/01M4WC9QPSR2V0HFKZSRQH4CT8.png",
     "recipes": [
       {
         "name": "Green Soul By Wong",
@@ -315,7 +341,7 @@
     "name": "Eisuke Ishibashi",
     "position": "Fotograf",
     "bio": "Eisuke Ishibashi wurde 1988 in Tokio geboren. 2015 begann er mit der Porträtfotografie. Er arbeitet mit Licht und einer einzigartigen Farbpalette, um einen fantastischen Look zu erzielen. Seit 2017 ist er als Hochzeitsfotograf tätig. Seine Bilder fangen den natürlichen Eindruck ein, den Braut und Bräutigam ausstrahlen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig46.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCAKZ4T12EHN007MXS3M46/01M4WCAKZ4T12EHN007MXS3M46.png",
     "recipes": [
       {
         "name": "Crystal Clear by Eisuke Ishibashi",
@@ -328,7 +354,7 @@
     "name": "Yuri",
     "position": "Fotografin",
     "bio": "Yuri lebt in Osaka. Sie fotografiert Landschaften, Blumen und Menschen in sanften Pastellfarben. Sie ist vorwiegend in verschiedenen Bereichen der Tourismusfotografie tätig, darunter Unternehmenswerbung und soziale Medien. Sie hält auch Vorträge bei Fotoseminaren, produziert Videos und schreibt für die Medien.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig45.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCBSC9ASV4ZA71YEFAEH7M/01M4WCBSC9ASV4ZA71YEFAEH7M.png",
     "recipes": [
       {
         "name": "Pale Tale by Yuri",
@@ -341,7 +367,7 @@
     "name": "Yohei Sawamura",
     "position": "Fotograf",
     "bio": "Der 1985 in der Präfektur Kyoto geborene Sawamura hat eine interessante berufliche Laufbahn hinter sich: Er arbeitete als Friseur, japanischer Koch, Barista und Kaffeeröster. Inzwischen ist er in vielen verschiedenen Bereichen tätig, zum Beispiel in Unternehmensprojekten, in der Werbefotografie, der Leitung eines Online-Salons und der Beratung zum Markenaufbau in den sozialen Medien. Sein YouTube-Kanal »Kyoto Boys: Photography, Kyoto, and Men's Travel« ist ebenfalls populär.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig35.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCCQJZ1A8D7T4D5WRH3908/01M4WCCQJZ1A8D7T4D5WRH3908.png",
     "recipes": [
       {
         "name": "Heartwarming by Yohei Sawamura",
@@ -354,7 +380,7 @@
     "name": "Faloo Mi",
     "position": "Creator-Duo für Reise und Lifestyle",
     "bio": "Faloo Mi, ein bekanntes Reise- und Lifestyle-Paar, ist berühmt für seinen lebendigen und sonnendurchfluteten Fotostil, der die Essenz von Optimismus und Freundlichkeit in deren Abenteuerreisen wunderbar einfängt.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig37.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCDGTH8TB6B3V6CKHT4SGY/01M4WCDGTH8TB6B3V6CKHT4SGY.png",
     "recipes": [
       {
         "name": "Call It Love by Faloo Mi",
@@ -367,7 +393,7 @@
     "name": "Fabio Oliveira",
     "position": "Fotograf/Storyteller",
     "bio": "Der australische Fotograf und Geschichtenerzähler Fabio hält in seinen Bildern die Magie des Reisens, der Natur und der zwischenmenschlichen Beziehungen fest. Von pulsierenden Küstenorten bis hin zu ruhigen Waldrefugien – seine Arbeiten laden dazu ein, die Schönheit sowohl der stillen als auch abenteuerlichen Momente des Lebens zu genießen. Fabios Blick, der von Reiseveranstaltern und Lifestyle-Marken geschätzt wird, bietet eine einfühlsame und mitreißende Perspektive, die Lust auf Reisen und aufschlussreiche Erkundungen macht.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig36.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCEAD4QEC5R0N85HFGVYHY/01M4WCEAD4QEC5R0N85HFGVYHY.png",
     "recipes": [
       {
         "name": "Filmic by Fabio Oliveira",
@@ -380,7 +406,7 @@
     "name": "Fujikawa hinano",
     "position": "Fotografin",
     "bio": "Die aus Tokio stammende Fotografin Fujikawa konzentriert sich in ihrer Arbeit vor allem auf Porträts, die häufig in Magazinen und in der Werbung verwendet werden. Sie versucht in ihren Bildern, die Mehrdeutigkeit und die Emotionen, die im Alltag und in außergewöhnlichen Situationen existieren, einzufangen und mit Sorgfalt zum Ausdruck zu bringen. Im April 2023 veröffentlichte sie parallel zu ihrer Einzelausstellung »Everything Everywhere« ein Fotobuch (ZINE). Gemeinsam mit einem Grafikdesigner gestaltete sie im April 2024 die Ausstellung »A Little Out of the Ordinary Side«.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig33.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCF29MQT5JSSHWE41VXD9X/01M4WCF29MQT5JSSHWE41VXD9X.png",
     "recipes": [
       {
         "name": "Rose Old Film by Fujikawa hinano",
@@ -398,7 +424,7 @@
     "name": "Taishi Arashida",
     "position": "Fotograf",
     "bio": "Der in Tokio lebende Arashida fotografiert bevorzugt Familien und Stadtlandschaften. Er ist darauf spezialisiert, Alltagsszenen in einem minimalistischen Stil und in filmähnlichen Farben einzufangen. Seine Fotografien werden in Magazinen und Online-Medien in Japan und im Ausland veröffentlicht. Im Dezember 2021 zeigte er in Ginza, Tokio, seine erste Einzelausstellung mit dem Titel »Evanescence«. Zu seinen Büchern gehören »Edit Digital Photos to Look Like Film« (Dejitaru de Firumu o Saigen Shitai) und »Let's Talk About Photography, Not Cameras« (Kamera Janaku, Shashin no Hanashi o Shiyou), beide erschienen bei GENKOSHA Co., Ltd.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig34.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCFRRAS7CT07HET2D0PFV8/01M4WCFRRAS7CT07HET2D0PFV8.png",
     "recipes": [
       {
         "name": "Japanesque Film by Taishi Arashida",
@@ -411,7 +437,7 @@
     "name": "Najmuddin Muif",
     "position": "Reisefotograf",
     "bio": "Ich heiße Najmuddin Muif und bin ein Reisefotograf aus Malaysia. Ich liebe es, die Welt durch das Objektiv meiner Kamera einzufangen. Mit meiner Leidenschaft für das Storytelling verwandle ich flüchtige Momente in zeitlose Bilder, die die Schönheit von Kulturen, Landschaften und die stillen Seiten des Lebens zeigen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig41.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCGHKHFB272XE60YYB5QWP/01M4WCGHKHFB272XE60YYB5QWP.png",
     "recipes": [
       {
         "name": "Coastal Glow by Najmuddin Muif",
@@ -424,7 +450,7 @@
     "name": "Hiuman Lam",
     "position": "Autorin/Fotografin/Kuratorin",
     "bio": "Hiuman Lam ist Schriftstellerin, Fotografin und Kuratorin. 2020 rief sie das Projekt »Hong Kong Reminiscence« ins Leben, das sich der Dokumentation des kulturellen Erbes von Hongkong widmet. Sie nahm an mehreren Fotografie- und Design-Ausstellungen im In- und Ausland teil. Ihr Ziel ist es, die einzigartige Kultur Hongkongs mit unterschiedlichen Mitteln zu dokumentieren und auf diese Weise Geschichte in Erinnerung zu verwandeln.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig39.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCH710YTSFEHKG08ZNGJS1/01M4WCH710YTSFEHKG08ZNGJS1.png",
     "recipes": [
       {
         "name": "HK Reminiscence by Hiuman Lam",
@@ -437,7 +463,7 @@
     "name": "Harpreet Singh",
     "position": "Mode- und Promi-Fotograf",
     "bio": "Harpreet Singh, der renommierte Fotograf für Mode und Promi-Porträts, besitzt ein seltenes Talent: Mit seinem scharfen Blick für Details und seiner angeborenen Fähigkeit, eine Beziehung zum Porträtierten aufzubauen, fängt er die Essenz von Stil und Persönlichkeit ein. Dank seiner aussagekräftigen und beeindruckenden Bilder, die über Trends hinausgehen, ist Harpreet Singh zu einem gefragten Fotografen in der Branche geworden.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig38.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCJ1DYET3KT55TPV0RR94E/01M4WCJ1DYET3KT55TPV0RR94E.png",
     "recipes": [
       {
         "name": "The SOFT GLOW AURA by Harpreet Singh",
@@ -450,7 +476,7 @@
     "name": "Ben",
     "position": "Freischaffender Streetfotograf",
     "bio": "Ben ist ein freischaffender Streetfotograf, der 2019 begann, kurze Videos zu produzieren und Fotos zu machen, in denen er ungewöhnliche Perspektiven nutzte, um unterschiedlichste Straßen- und Landschaftsmotive festzuhalten. Er versteht es, die Wirkung von Licht und Schatten einzufangen und dem Betrachter ein beeindruckendes Fotografie-Erlebnis zu bieten, mit dem Ziel, die Begeisterung für die Fotografie zu wecken.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig42.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCJS792N9TR9S5R4NKN71J/01M4WCJS792N9TR9S5R4NKN71J.png",
     "recipes": [
       {
         "name": "Warm Street by Ben",
@@ -462,8 +488,8 @@
   {
     "name": "Vijay Eesam",
     "position": "Hochzeitsfotograf",
-    "bio": "Vijay Eesam ist ein renommierter Hochzeitsfotograf in Indien, der für seinen künstlerischen Ansatz und seine innovativen Techniken gefeiert wird. Er begann seine Karriere 2009 mit einer Nikon D300, deren Kauf von 15 Unterstützern finanziert wurde. Vijay hat sich einen bedeutenden Ruf als gefragter Fotograf für „Liebespaare“ aufgebaut.Seine Leidenschaft für künstliche Intelligenz brachte ihn dazu, „Huemn“ zu entwickeln, eine Komplettlösung für ein „Customer Relationship Management“, das von Tausenden der besten Fotografen Indiens zur nahtlosen Verwaltung ihrer Geschäftstätigkeit genutzt wird.\\nSeine neueste Mission, die er über den Community-Club „Move Up“ verfolgt, besteht darin, eine neue Generation von Fotografen zu inspirieren, bedeutsame Kunst in der Hochzeitsfotografie zu erschaffen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig44.png",
+    "bio": "Vijay Eesam ist ein renommierter Hochzeitsfotograf in Indien, der für seinen künstlerischen Ansatz und seine innovativen Techniken gefeiert wird. Er begann seine Karriere 2009 mit einer Nikon D300, deren Kauf von 15 Unterstützern finanziert wurde. Vijay hat sich einen bedeutenden Ruf als gefragter Fotograf für „Liebespaare“ aufgebaut.\nSeine Leidenschaft für künstliche Intelligenz brachte ihn dazu, „Huemn“ zu entwickeln, eine Komplettlösung für ein „Customer Relationship Management“, das von Tausenden der besten Fotografen Indiens zur nahtlosen Verwaltung ihrer Geschäftstätigkeit genutzt wird. Seine neueste Mission, die er über den Community-Club „Move Up“ verfolgt, besteht darin, eine neue Generation von Fotografen zu inspirieren, bedeutsame Kunst in der Hochzeitsfotografie zu erschaffen.",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCKDATEKW07SGYW0RR8VM2/01M4WCKDATEKW07SGYW0RR8VM2.png",
     "recipes": [
       {
         "name": "Soft Vivid by Vijay Eesam",
@@ -475,8 +501,8 @@
   {
     "name": "Jatenipat Ketpradit (JKBoy)",
     "position": "Porträt-/Reisefotograf",
-    "bio": "JKBoy Jatenipat Ketpradit, ein preisgekrönter Fotograf und kultureller Geschichtensammler, fängt weltweit atemberaubende Bilder von traditionellen Gemeinschaften ein. Er ist bekannt für sein künstlerisches Schaffen und die Vermittlung von Kultur durch seine Fotografien und Ausstellungen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig40.png",
+    "bio": "JKBoy Jatenipat Ketpradit, ein preisgekrönter Fotograf und kultureller Geschichtensammler, fängt weltweit atemberaubende Bilder von traditionellen Gemeinschaften ein. Er ist bekannt für sein künstlerisches Schaffen und die Vermittlung von Kultur durch seine Fotografien und Ausstellungen.\n",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCM69DJFEY2WMYFKCXT15H/01M4WCM69DJFEY2WMYFKCXT15H.png",
     "recipes": [
       {
         "name": "Sunset Film Portrait by Jatenipat Ketpradit (JKBoy)",
@@ -489,7 +515,7 @@
     "name": "Peng Mango",
     "position": "Freischaffender Fotograf",
     "bio": "Peng Mango ist seit 2014 als freischaffender Fotograf tätig und hat sich darauf spezialisiert, dynamische Momente voller Vitalität einzufangen. Sein Ziel ist es, durch seine Fotos Freude und Energie zu vermitteln.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig43.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCN12X9ZMBJQJV1BGG1ZZJ/01M4WCN12X9ZMBJQJV1BGG1ZZJ.png",
     "recipes": [
       {
         "name": "Vitality Film by Peng Mango",
@@ -502,7 +528,7 @@
     "name": "Noise Woo",
     "position": "Freischaffender Fotograf",
     "bio": "Noise Woo ist ein freischaffender Fotograf, der es versteht, einzigartige urbane Landschaften in faszinierendem Licht und lebendigen Farben einzufangen. Er ist ein Weibo-zertifizierter Excellent Photographer 2023, ein Red-Book-zertifizierter Fotograf und ein Blogger mit Millionen von Followern über alle Plattformen hinweg. Mit Reisefotografie-Erfahrung in Dutzenden von Ländern, erstreckt sich seine Fangemeinde über den gesamten Globus.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig28.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCNRPJRQW2F93GBTC47DCG/01M4WCNRPJRQW2F93GBTC47DCG.png",
     "recipes": [
       {
         "name": "Movie Green Orange by Noise Woo",
@@ -520,7 +546,7 @@
     "name": "Wazika",
     "position": "Porträtfotograf",
     "bio": "Wazika ist ein Porträtfotograf, der es hervorragend versteht, emotionale Schwarz-Weiß-Porträts aufzunehmen. Seit 8 Jahren beschäftigt er sich mit der Porträtfotografie. Seine Serie »Modern Girls« hat sich in den sozialen Medien weit verbreitet.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig29.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCPE28AHDH0YJT5F74W0HK/01M4WCPE28AHDH0YJT5F74W0HK.png",
     "recipes": [
       {
         "name": "Warm-toned Portrait by Wazika",
@@ -538,7 +564,7 @@
     "name": "Takumi Gunji",
     "position": "Fotograf/Video Director",
     "bio": "Takumi Gunji wurde 1995 geboren und arbeitet bei koe Inc. Nach seinem Abschluss in Science of Design am College of Art and Design an der Musashino Art University war er Teil von Drawing and Manual, Inc., bevor er 2021 eigene Wege ging. Er arbeitet an einer Vielzahl von Projekten, darunter Musikvideos und Dokumentarfilme, die er selbst dreht und bearbeitet.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig27.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCQ60ZJJ85M4CRGXKDR870/01M4WCQ60ZJJ85M4CRGXKDR870.png",
     "recipes": [
       {
         "name": "Air Green by Takumi Gunji",
@@ -551,7 +577,7 @@
     "name": "Brittany Eliza Kunkel",
     "position": "Fotografin",
     "bio": "Brittany Kunkel ist eine in New York City ansässige Fotografin, die das alltägliche Stadtleben in »Traumlandschaften« verwandelt, die voller Emotionen und Zauber sind. Mit ihrem Erfahrungsschatz als Malerin von großformatigen Ölgemälden ist ihr Stil heute stark von ihrem künstlerischen Auge geprägt. Sie sucht nach einzigartigen Wegen, um ikonische New Yorker Orte zu fotografieren, und viele ihrer Arbeiten rufen Nostalgie, Romantik und Staunen hervor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig30.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCQTS0C37C621JBDDGNNSW/01M4WCQTS0C37C621JBDDGNNSW.png",
     "recipes": [
       {
         "name": "Moody Greens by Brittany Eliza Kunkel",
@@ -574,7 +600,7 @@
     "name": "Preston Luke",
     "position": "Fotograf/Content Creator",
     "bio": "Preston ist ein Fotograf und Content Creator, der echte, nachempfindbare Momente durch Porträts, Branding und Lifestyle-Arbeiten zum Leben erweckt. Preston ist bekannt dafür, Tipps und kreative Einblicke hinter die Kulissen zu teilen. Er verbindet sich mit einer wachsenden Community von aufstrebenden Fotografinnen und Fotografen und inspiriert sie, ihrer Leidenschaft mit Überzeugung nachzugehen. Durch authentisches Bildmaterial und persönliche Geschichten ermutigt Preston andere, ihre kreativen Vorstellungen zu verwirklichen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig32.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCRKNTCXR9PDKPDGZARQNB/01M4WCRKNTCXR9PDKPDGZARQNB.png",
     "recipes": [
       {
         "name": "Vintage Vibes by Preston Luke",
@@ -597,7 +623,7 @@
     "name": "Vincent Versace",
     "position": "Fotograf/Autor",
     "bio": "Vincent Versace ist international als Pionier der digitalen Fotografie bekannt und Autor mehrerer Bestseller-Bücher über Aufnahmetechnik. Seit seiner Kindheit ist er ein begeisterter Fotograf, und seine Arbeiten reichen von Reisen und Porträts bis hin zu Hollywood-Filmsets. Derzeit lebt Vincent in Los Angeles und arbeitet als Fotograf, Dozent und Berater für verschiedene Unternehmen in der Imaging-Branche.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig20.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCS9A3E7M3EXHKZJGE304G/01M4WCS9A3E7M3EXHKZJGE304G.png",
     "recipes": [
       {
         "name": "British Film Black and White by Vincent Versace",
@@ -620,7 +646,7 @@
     "name": "Ian Harland",
     "position": "Fotograf",
     "bio": "Ian Harland ist ein Fotograf aus Vancouver, der sich auf Abenteuer, Werbung und redaktionelle Arbeit konzentriert. Er arbeitet mit Tourismusverbänden, Unternehmen und Zeitschriften zusammen, um das Wesen der Natur einzufangen. Die Arbeit von Ian verbindet technische Präzision mit kreativer Vision, wodurch jedes Projekt zu einer harmonischen Synthese aus erzählerischer Kraft und beeindruckenden Bildern wird.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig31.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCT077AW59V93AXBDQEG80/01M4WCT077AW59V93AXBDQEG80.png",
     "recipes": [
       {
         "name": "Honey by Ian Harland",
@@ -643,7 +669,7 @@
     "name": "Julia Nimke",
     "position": "Reise-/Lifestyle-Fotografin",
     "bio": "Julia Nimke ist eine in Berlin lebende Fotografin, die weltweit arbeitet. Ihre Aufnahmen sind stark von der Natur inspiriert und werden von internationalen Unternehmen aus den Bereichen Tourismus, Werbung und Lifestyle geschätzt. Sie lädt die Betrachter dazu ein, die Welt durch ihre Kamera zu erkunden.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig14.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCTV6ZDZE5QKWVNG4E8ZHA/01M4WCTV6ZDZE5QKWVNG4E8ZHA.png",
     "recipes": [
       {
         "name": "Sunkissed Warmth by Julia Nimke",
@@ -671,7 +697,7 @@
     "name": "Fuka Kamata",
     "position": "Fotografin",
     "bio": "Fuka Kamata begann 2017 als Fotografin zu arbeiten. Sie ist spezialisiert auf natürliche und »lichtdurchlässige« Landschaften und Porträts unter sanftem Licht. Dabei legt sie Wert darauf, die kleinen Freuden des Lebens und des Alltags durch Fotografie zum Ausdruck zu bringen. Sie fotografiert vor allem Familien zu Hause oder im Freien, ist als Dozentin bei Fotoseminaren und als Werbefotografin tätig.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig25.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCVK2T0MK8DABSKSDATXC5/01M4WCVK2T0MK8DABSKSDATXC5.png",
     "recipes": [
       {
         "name": "Tender Clear by Fuka Kamata",
@@ -684,7 +710,7 @@
     "name": "Dondre Green",
     "position": "Porträtfotograf",
     "bio": "Dondre Green ist ein in New York ansässiger Art Director und Fotograf, der sich auf das innovative Erzählen von Geschichten spezialisiert hat. Er ist der Gründer von Bronx Narratives, einer Community-Plattform, welche die Einwohner in den Mittelpunkt stellt und kulturell relevante Veranstaltungen durchführt.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig15.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCW9BHQPY029EX58WDZAHH/01M4WCW9BHQPY029EX58WDZAHH.png",
     "recipes": [
       {
         "name": "Summertime Shine by Dondre Green",
@@ -697,7 +723,7 @@
         "detailUrl": "/recipe/release/detail/?id=01JD1QEZPASC3QRGYW7SR2VYAY"
       },
       {
-        "name": "Nights Like This  by Dondre Green",
+        "name": "Nights Like This by Dondre Green",
         "id": "01JD1QEZWN61EJ5VPP7HBTJMYH",
         "detailUrl": "/recipe/release/detail/?id=01JD1QEZWN61EJ5VPP7HBTJMYH"
       }
@@ -707,7 +733,7 @@
     "name": "D’Ann Boal",
     "position": "Porträtfotografin/Dozentin",
     "bio": "D’Ann Boal ist eine preisgekrönte Porträtfotografin und Dozentin, die erstmals eine Kamera in die Hand nahm, um Fotos von ihrem neugeborenen Sohn zu machen, bevor sie die Fotografie zu ihrem Hauptberuf machte. D’Anns Fotografie ist romantisch und entrückt. Sie kombiniert wunderschöne, intime Porträts mit den atemberaubenden Naturlandschaften, die ihr Studio in der Nähe von Boulder, Colorado, umgeben.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig18.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCX2AB91DPS0QGG79EJ21Y/01M4WCX2AB91DPS0QGG79EJ21Y.png",
     "recipes": [
       {
         "name": "Golden Hour Glow by D'Ann Boal",
@@ -730,7 +756,7 @@
     "name": "TAKASU TILE",
     "position": "YouTube-Creator über das Landleben",
     "bio": "TAKASU TILE hat sein vor 50 Jahren erbautes Haus der Familie renoviert und erzählt vom ländlichen Lebensstil, den er dort genießt, wenn er nicht gerade durch die Welt reist. Die Videos, die er auf YouTube veröffentlicht, zeigen wunderschöne Aufnahmen des Alltags auf dem Land, die darauf abzielen, das »Gewöhnliche außergewöhnlich zu machen«. Diese Filme haben beim Publikum in Japan und im Ausland an Popularität gewonnen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig21.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCXVQEQF5T06X3SMRXB6QN/01M4WCXVQEQF5T06X3SMRXB6QN.png",
     "recipes": [
       {
         "name": "Kota-Green by TAKASU TILE",
@@ -743,7 +769,7 @@
     "name": "tanco",
     "position": "Fotografin",
     "bio": "Tancos Arbeit als Fotomodell weckte ihr Interesse an Kameras und inspirierte sie dazu, Fotografin zu werden. Sie konzentriert sich darauf, die schlichte Schönheit des Alltags zu fotografieren, wobei sie das Sammeln kostbarer Momente zum Thema macht. Ihre Arbeiten sind insofern originell, als sie die von ihr aufgenommenen Fotos mit Texten kombiniert, die den Eindruck, den die Fotos vermitteln, ergänzen und so Fotostorys entstehen lassen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig23.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCYTJ1HJF39WBC9J3X6W29/01M4WCYTJ1HJF39WBC9J3X6W29.png",
     "recipes": [
       {
         "name": "Matte Blue Gray by tanco",
@@ -756,7 +782,7 @@
     "name": "Gilmar Smith",
     "position": "Fotografin",
     "bio": "Die in Venezuela geborene Gilmar Smith betrachtet die Fotografie nicht nur als ihren Beruf, sondern auch als einen Quell des Lichts und der Freude, der sie durch ihr Leben begleitet hat. Gilmar möchte diese Freude mit ihren Porträtmodellen, ihren Kunden und allen, die ihre Arbeiten betrachten, teilen. Gilmars Fotografien wurden in zahlreichen Publikationen auf der ganzen Welt veröffentlicht – leicht erkennbar an der charakteristischen Verwendung von kräftigen Farben, originellen Arrangements und ihrem verspielten Sinn für Humor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig19.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCZJ2RKEF3S1BV7XW7DHXK/01M4WCZJ2RKEF3S1BV7XW7DHXK.png",
     "recipes": [
       {
         "name": "Color Splash by Gilmar Smith",
@@ -779,7 +805,7 @@
     "name": "Yuki Hirotani",
     "position": "Fotograf",
     "bio": "Yuki Hirotani wurde in Osaka geboren. Im April 2024 begann er als freischaffender Fotograf eine parallele Berufstätigkeit. Er weitet seine Arbeit als aufstrebender Fotograf auf Unternehmensprojekte, Veröffentlichungen in Zeitschriften und Schulungen aus. Seine Fotos in den sozialen Medien zeigen lebendige Momente in seinem einzigartigen und unkonventionellen Stil.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig26.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD086PSQCT0PPNJWN3Z4NC/01M4WD086PSQCT0PPNJWN3Z4NC.png",
     "recipes": [
       {
         "name": "Turquoise Blue by Yuki Hirotani",
@@ -797,7 +823,7 @@
     "name": "Amanatsu Mikan",
     "position": "Fotomodell/Fotografin",
     "bio": "Amanatsu Mikan startete 2018 mit einem Social-Media-Account als Fotografin. Nach und nach fand sie Gefallen daran, sich fotografieren zu lassen, und ist heute sowohl als Model als auch als Fotografin tätig. Ihre Fotos – es sind meist Porträts – zeichnen sich durch warme, weiche Töne aus. Sie arbeitet auch an Projekten jenseits sozialer Medien, wie Ausstellungen und Fotospaziergänge.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig24.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD0YZPVSMQ8KPJX0NTW3ZH/01M4WD0YZPVSMQ8KPJX0NTW3ZH.png",
     "recipes": [
       {
         "name": "Sunset Glow by Amanatsu Mikan",
@@ -810,7 +836,7 @@
     "name": "Leno Cainelli",
     "position": "Content Creator",
     "bio": "Leno Cainelli ist ein Content Creator aus dem Vereinigten Königreich mit über 300.000 Followern. Er fängt alltägliche, ruhige Momente ein und verwandelt sie in zeitlose Kunst, die die Schönheit im Gewöhnlichen und das Außergewöhnliche im Alltäglichen offenbart.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig16.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD1P25Y15082VG06YQSKT8/01M4WD1P25Y15082VG06YQSKT8.png",
     "recipes": [
       {
         "name": "Soft Film by Leno Cainelli",
@@ -838,7 +864,7 @@
     "name": "Haruka Koharu",
     "position": "Fotografin",
     "bio": "Haruka Koharu wurde in der Präfektur Gunma geboren. 2015 kaufte sie ihre erste Spiegelreflexkamera und entdeckte die Freude an der Fotografie. Im Jahr 2023 begann sie, freiberuflich zu arbeiten. Sie fängt inspirierende Szenen und Motive, wie Naturlandschaften, saisonale Blumen und das alltägliche Leben, auf eine Art und Weise ein, die die Welt bunt und glanzvoll erscheinen lässt. Ihre Arbeit ist sehr vielfältig, mit Reisereportagen, Unternehmenskooperationen und Fotografie-Vorträgen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig22.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD2CAPY1YBGAEB8ACX81MP/01M4WD2CAPY1YBGAEB8ACX81MP.png",
     "recipes": [
       {
         "name": "Hidamari Color by Haruka Koharu",
@@ -851,7 +877,7 @@
     "name": "Baek Jaekwang",
     "position": "Designer",
     "bio": "Baek Jaekwang ist ein in Seoul ansässiger Designer für eine Modemarke und ein Content Creator, der kulinarische Inhalte mit über 331.000 Followern teilt. Indem er das Farbgefühl des Designers auf seine Food-Videos anwendet, liefert er visuell fesselnde Inhalte.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig17.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD33SF83FRSYDTRZ0R5QE1/01M4WD33SF83FRSYDTRZ0R5QE1.png",
     "recipes": [
       {
         "name": "Sunset Reset by Baek Jaekwang",
@@ -864,7 +890,7 @@
     "name": "Luna Atlantis",
     "position": "Freischaffende Fotografin",
     "bio": "Freischaffende Fotografin, spezialisiert auf Porträtfotografie mit Licht und Schatten, seit 2013 in der Fotobranche tätig. Sie hat ein Fotobuch mit dem Titel »Silent Light« und das Fotografie-Lehrbuch »A Moment of Light and Shadow« veröffentlicht.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig13.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD3TAVYXYVE0CRWH791DM0/01M4WD3TAVYXYVE0CRWH791DM0.png",
     "recipes": [
       {
         "name": "Blue Hour by Luna",
@@ -881,11 +907,11 @@
   {
     "name": "Links",
     "position": "Fotograf/Influencer",
-    "bio": "Abschluss an der Fakultät für Fotografie der Tokyo Polytechnic University.Seit 2018 ist Links als Influencer tätig und nutzt Fotos und Videos, um Reise-Erlebnisse auf eine überzeugende und eindringliche Art und Weise einzufangen und zu teilen. Er ist bekannt für seine fundierten Kenntnisse über Foto-Ausrüstungen, produziert Videos mit Kamera-Bewertungen und nahm als Fotograf von Berglandschaften am weltweiten Markteinführungs-Event der Nikon Z8 im Jahr 2023 teil.Veröffentlichtes Fotobuch: »Traveling in Iceland: A Journey to Another World«Foto-Ausstellungen: »To the Peak« (Ginza, Tokio), »Snow Country« (Place M)",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig11.png",
+    "bio": "Abschluss an der Fakultät für Fotografie der Tokyo Polytechnic University.\n\nSeit 2018 ist Links als Influencer tätig und nutzt Fotos und Videos, um Reise-Erlebnisse auf eine überzeugende und eindringliche Art und Weise einzufangen und zu teilen. Er ist bekannt für seine fundierten Kenntnisse über Foto-Ausrüstungen, produziert Videos mit Kamera-Bewertungen und nahm als Fotograf von Berglandschaften am weltweiten Markteinführungs-Event der Nikon Z8 im Jahr 2023 teil.\nVeröffentlichtes Fotobuch: »Traveling in Iceland: A Journey to Another World«\nFoto-Ausstellungen: »To the Peak« (Ginza, Tokio), »Snow Country« (Place M)",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD4K4DHY5YQV96Q0Q2V6VG/01M4WD4K4DHY5YQV96Q0Q2V6VG.png",
     "recipes": [
       {
-        "name": "Nature  by Links",
+        "name": "Nature by Links",
         "id": "01JAW8D9CWSDADVKDDTJ79D0NT",
         "detailUrl": "/recipe/release/detail/?id=01JAW8D9CWSDADVKDDTJ79D0NT"
       }
@@ -895,7 +921,7 @@
     "name": "MediaStorm",
     "position": null,
     "bio": "MediaStorm ist ein professioneller Content-Anbieter und Experte für digitale Medien, der mit innovativen Fototechniken immer wieder beispiellose Inhalte erschafft und reale Geschichten durchs Objektiv einfängt. Ob man sich in den Weltraum wagt, um die gesamte Erdkugel zu erfassen, in die Tiefen der Ozeane eintaucht oder den »Fluorescent Forest« mittels UVIVF-Fotografie (UV-induzierte, sichtbare Fluoreszenz) leuchten lässt, das Ziel ist es, dem Publikum ein einzigartiges und unvergessliches visuelles Erlebnis zu bieten.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig12.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD5B37XHT5RTPNQG4AMDCH/01M4WD5B37XHT5RTPNQG4AMDCH.png",
     "recipes": [
       {
         "name": "Textured Documentary by MediaStorm",
@@ -908,7 +934,7 @@
     "name": "Hanaa Turkistani",
     "position": "Architektur- und Landschaftsfotografin",
     "bio": "Hanaa Turkistani ist eine freischaffende Fotografin aus Saudi-Arabien. Sie ist bekannt für ihre Architektur- und Stadtbilder. Hanaa ist spezialisiert auf die Durchführung von Workshops, die Juryarbeit bei Wettbewerben und die kreative Bearbeitung.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig10.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD62305CPAJCCJ94PC5EKN/01M4WD62305CPAJCCJ94PC5EKN.png",
     "recipes": [
       {
         "name": "HT Harmony by Hanaa Turkistani",
@@ -921,7 +947,7 @@
     "name": "Y2",
     "position": "Videofilmer",
     "bio": "2019 begann Y2 mit der Produktion von Reisevideos. Er lebt derzeit in Tokio und produziert freiberuflich touristische und dokumentarische Videofilme. Er beherrscht filmische Ausdrucksformen, die die Pracht der Natur einfangen, sowie das Color Grading zum Optimieren der Bilder. Er möchte so vielen Menschen wie möglich den eigentlichen Charme und die Schönheit von Bildern vermitteln.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig09.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD6S1ZBNVKD7AGF0DBPM0X/01M4WD6S1ZBNVKD7AGF0DBPM0X.png",
     "recipes": [
       {
         "name": "Cloudy Forest by Y2",
@@ -939,7 +965,7 @@
     "name": "Noci Kosho",
     "position": "Fotografin/Autorin",
     "bio": "Die in Yokohama, Japan, geborene Noci Kosho hat 30 Länder auf der ganzen Welt seit 2016 bereist und lebt derzeit abwechselnd in Chiang Mai, Thailand, und der Präfektur Iwate, Japan. Sie verbindet Fotografie und Texte in ihren Arbeiten, die sie in den sozialen Medien präsentiert.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig07.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD7GP34FYX5FG16EB41Q3V/01M4WD7GP34FYX5FG16EB41Q3V.png",
     "recipes": [
       {
         "name": "Setouchi Blue by Noci Kosho",
@@ -952,7 +978,7 @@
     "name": "Hiroki Nose",
     "position": "Fotograf",
     "bio": "Im Jahr 2015 begann Hiroki Nose seine Karriere, indem er sich das Fotografieren und Bearbeiten mit einer Spiegelreflexkamera und einem Smartphone selbst beibrachte. Die in dieser Zeit entwickelten Bildbearbeitungstechniken und Aufnahmestile einsetzend, arbeitet er heute in einer Vielzahl von Genres im In- und Ausland, unter anderem für große Unternehmen und Tourismusverbände. Er hat sich auf mehrere Bereiche der Fotografie spezialisiert, darunter Landschaften, Porträts und Tiere, wobei er seinen Werken eine einzigartige, unverwechselbare Note verleiht.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig08.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD8AGC2XJ2HB54Q2PKBNKZ/01M4WD8AGC2XJ2HB54Q2PKBNKZ.png",
     "recipes": [
       {
         "name": "Moisture Green by Hiroki Nose",
@@ -965,7 +991,7 @@
     "name": "Takahiro Sakai",
     "position": "Porträt-/Lifestyle-Fotograf",
     "bio": "Takahiro hat sich auf Porträt- und Momentaufnahmen spezialisiert. Von Werbung über Prominenten- und Modelshootings bis hin zu Magazinen, Fotobüchern und Modefotografie sind seine Arbeiten für ihren natürlichen und klaren Ausdruck bekannt, der von seinem Hintergrund als Grafikdesigner beeinflusst ist. Seine Aktivitäten sind vielfältig und gehen über das traditionelle Arbeitsfeld eines Fotografen hinaus.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig02.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD92GR2XT7CC75A4DH3FJQ/01M4WD92GR2XT7CC75A4DH3FJQ.png",
     "recipes": [
       {
         "name": "Pastel Nostalgia by Takahiro Sakai",
@@ -988,7 +1014,7 @@
     "name": "Brandon Woelfel",
     "position": "Porträtfotograf",
     "bio": "Brandon Woelfel ist ein freischaffender Fotograf, der derzeit in Brooklyn, New York lebt. Brandon ist besonders für seine Inhalte auf Instagram bekannt und sein Werk zeichnet sich durch eine spezielle Ästhetik aus, die stets erkennbar ist.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig01.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD9RXG8TS4EM7E6TSK8JYB/01M4WD9RXG8TS4EM7E6TSK8JYB.png",
     "recipes": [
       {
         "name": "Cinematic Blue by Brandon Woelfel",
@@ -1011,7 +1037,7 @@
     "name": "Emilie Hill",
     "position": "Reisefotografin",
     "bio": "Emilie, eine australische Fotografin mit einem Jahrzehnt kreativer Erfahrung, zeigt ihre verträumten Bilder von abgelegenen Dörfern in Südamerika bis zu wilden Landschaften in der Antarktis. Mit über 1,5 Millionen Followern, arbeitet sie mit führenden Reise- und Lifestyle-Marken zusammen und ermutigt ihr Publikum, eine tiefere Verbindung mit der Natur und sich selbst zu suchen.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig03.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WDAGC0NFM49WPZF632NQ1Q/01M4WDAGC0NFM49WPZF632NQ1Q.png",
     "recipes": [
       {
         "name": "Boho Look by Emilie Hill",
@@ -1029,7 +1055,7 @@
     "name": "LUIZCLAS",
     "position": "Porträtfotograf",
     "bio": "Luiz ist ein brasilianischer Porträtfotograf. Sein intimer Stil mit seiner unverwechselbaren Verwendung von Farben hat ihm allein auf Instagram über eine halbe Million Follower eingebracht. Er veranstaltet heute Workshops auf der ganzen Welt, von New York bis Paris.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig04.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WDB7DJ95GZ07N2F859SCHF/01M4WDB7DJ95GZ07N2F859SCHF.png",
     "recipes": [
       {
         "name": "Red Mood by LUIZCLAS",
@@ -1057,7 +1083,7 @@
     "name": "Aparupa Dey",
     "position": "Natur- und Tierfotografin",
     "bio": "Aparupa Dey ist eine indische Tierfotografin mit einem guten Auge für die Darstellung flüchtiger Momente auf eine Weise, die die wahre Schönheit der Natur zeigt. Ihre Arbeiten wurden unter anderem von der BBC, Animal Planet, Discovery Channel und Nature in Focus präsentiert.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig05.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WDBZ509FQV86644KQXBQ81/01M4WDBZ509FQV86644KQXBQ81.png",
     "recipes": [
       {
         "name": "Bleach Blue by Aparupa Dey",
@@ -1070,7 +1096,7 @@
     "name": "Danny Gevirtz",
     "position": "Filmemacher und YouTuber",
     "bio": "Danny Gevirtz ist ein Filmemacher aus Philadelphia, der durch seine ambitionierten Kurzfilme eine große Fangemeinde aufgebaut hat. Er ist zu einer Schlüsselfigur in der Videofilmer-Community geworden, weil er sich dafür einsetzt, dass junge Einzelkämpfer ihre leidenschaftlichen Projekte verfolgen können.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig06.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WDCNNMJTGERP64E9XZ7E55/01M4WDCNNMJTGERP64E9XZ7E55.png",
     "recipes": [
       {
         "name": "DG Film Look by Danny Gevirtz",
@@ -1083,7 +1109,7 @@
     "name": "Nikon",
     "position": null,
     "bio": null,
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig00.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WDDCTCMR7VMQAWSBNJ9V8R/01M4WDDCTCMR7VMQAWSBNJ9V8R.png",
     "recipes": [
       {
         "name": "Negative Film Yellow 01a",

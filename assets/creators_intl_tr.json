@@ -1,9 +1,35 @@
 [
   {
+    "name": "Choi matae",
+    "position": "İçerik Üreticisi",
+    "bio": "Choi matae, fotoğrafçılığı eğlenceli ve heyecan verici şekillerde sergileyen eğlenceli içerikler üreten bir içerik üreticisidir. 2016 yılından beri Kore ve Japonya arasında çalışırken sosyal medyada çok çeşitli içerikler üretiyor. Eşsiz bir bakış açısıyla, içeriklerini hazırlarken kameraya doğrudan bakıyor ve herkesin fotoğrafçılığa aşık olmasını sağlamak için her zaman çaba gösteriyor.",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCZ2HT6YF3984V1FPPYKTE/01M4WCZ2HT6YF3984V1FPPYKTE.png",
+    "recipes": [
+      {
+        "name": "Mate Film by Choi matae",
+        "id": "01M4SEH4G3AE1BF9PDWED2N6YQ",
+        "detailUrl": "/recipe/release/detail/?id=01M4SEH4G3AE1BF9PDWED2N6YQ"
+      }
+    ]
+  },
+  {
+    "name": "Yinukhi",
+    "position": "İçerik Üreticisi",
+    "bio": "Fotoğrafın insanlar arasında samimi bağlar kurabileceğine inanan Yinukhi, 2011 yılından bu yana Güney Kore ile Danimarka arasında seyahat ederken fotoğrafçı ve film yapımcısı olarak çalışıyor.",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WDZR85GPMFE1V97R104Y68/01M4WDZR85GPMFE1V97R104Y68.png",
+    "recipes": [
+      {
+        "name": "Mid-Spring by Yinukhi",
+        "id": "01M4SEH4NFAN84N82J8DH69CA5",
+        "detailUrl": "/recipe/release/detail/?id=01M4SEH4NFAN84N82J8DH69CA5"
+      }
+    ]
+  },
+  {
     "name": "Amy Shore",
     "position": "Fotoğrafçı",
     "bio": "Amy Shore, Birleşik Krallık’ta yaşayan serbest bir otomotiv ve yaşam tarzı fotoğrafçısı. Sadece doğal ışıkla çekim yaptığı için, prime objektifi tercih ediyor. Konularının çoğu yol gezilerindeki klasik arabalar olduğundan, sadece güzel bir yolda çekilmiş araba fotoğrafları değil, çekimin duygusunu da yansıtmaya çalışıyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig60.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WAAQ1CFXNCY7JNM7FPTESA/01M4WAAQ1CFXNCY7JNM7FPTESA.png",
     "recipes": [
       {
         "name": "Vintage Touch by Amy Shore",
@@ -16,7 +42,7 @@
     "name": "MASAYA",
     "position": "Fotoğrafçı Baba",
     "bio": "“Fotoğrafçı Baba” olarak MASAYA, çocuğunun büyüme sürecindeki değerli anlarını ve aile anılarını sosyal medyada paylaşıyor. Çalışmaları, “resimli kitaptan sayfalar gibi aile fotoğrafları” teması etrafında dönüyor. Benzersiz bakış açısı ve ifadesi, küçük çocuklu ebeveynler, çocukları büyüyüp evden ayrılan ebeveynler ve büyükanne ve büyükbabalarla yankı buluyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig65.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WBV9YC7EWYQ107RE2FTK8E/01M4WBV9YC7EWYQ107RE2FTK8E.png",
     "recipes": [
       {
         "name": "Honey Tale by MASAYA",
@@ -29,7 +55,7 @@
     "name": "Nagisa Ichikawa",
     "position": "Kreatif Direktör/Fotoğrafçı",
     "bio": "Nagisa Ichikawa, moda tasarımı okudu ve kendi işini kurmadan önce uluslararası bir lüks markanın halkla ilişkiler departmanında çalıştı. Sezgi ile mantığı dengeleyerek, marka ve hizmet deneyimleri ile iletişim stratejileri tasarlıyor. Son zamanlarda, izleyicilere ince içgörüler ve kalıcı bir etki bırakan film, kelime ve diğer medya araçlarındaki ifadeleri keşfetmek için fotoğrafçılığı kullanmaya başladı.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig62.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WBWEX2175FEZC04ZCJ0NCT/01M4WBWEX2175FEZC04ZCJ0NCT.png",
     "recipes": [
       {
         "name": "QUIET by Nagisa Ichikawa",
@@ -47,7 +73,7 @@
     "name": "jyota tomonori",
     "position": "Fotoğrafçı",
     "bio": "Bir fotoğraf makinesi ve bitki aşığı olan jyota tomonori, her gün yanında bir fotoğraf makinesi ile dolaşıyor ve eşi ile kızının günlük yaşamından kareler yakalıyor. Üniversiteden mezun olduktan ve düğün salonunda düğün fotoğrafçısı olarak çalıştıktan sonra, şu anda serbest çalışıyor ve bugüne kadar 700’den fazla çiftin düğün öncesi ve düğün mekanlarında fotoğraflarını çekmiştir. Ayrıca reklam, kurumsal fotoğraflar, kitap yayıncılığı ile uğraşıyor ve orijinal fotoğraf ön ayarları satıyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig61.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WBXPN5RTDZBSE525HWF4S9/01M4WBXPN5RTDZBSE525HWF4S9.png",
     "recipes": [
       {
         "name": "Bluegrain by jyota tomonori",
@@ -60,7 +86,7 @@
     "name": "HYEYA",
     "position": "Fotoğrafçı",
     "bio": "HYEYA, genç yaşlardan itibaren, ömrü boyunca yaptığı sanat çalışmalarıyla görsel ifade alanında bir temel oluşturdu. Zamanla, fotoğrafçılığın cazibesine kapıldı ve sonunda fotoğrafçı olarak kendi yolunu çizdi. Manzaralardan ziyade, ilhamının çoğunu portrelerden alıyor; göz teması ve sohbet yoluyla gerçek bağların kurulduğu anları yakalıyor. Amacı, ışık ve duyguların doğal bir şekilde aktığı, neredeyse suluboya resimler gibi net ve saf hissettiren fotoğraflar yaratmak ve düzenlemektir.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig63.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WBYK2WKYCVTC89NWM3W4T0/01M4WBYK2WKYCVTC89NWM3W4T0.png",
     "recipes": [
       {
         "name": "Pink Watercolor by HYEYA",
@@ -73,7 +99,7 @@
     "name": "Kyungjun Lee",
     "position": "Fotoğrafçı",
     "bio": "Kyungjun Lee, New York’ta yaşayan bir fotoğrafçı ve şehirler ile insanlar tarafından şekillendirilen desenleri fotoğraflarına yansıtıyor. Günlük yaşamdaki ince ritimlere odaklanan sanatçı, 2023 yılında One Step Away adlı kişisel sergisini, 2024 yılında ise Every Reflection adlı monografisini sundu.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig64.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WBZCDDQSE6VNJFX5Z1B23X/01M4WBZCDDQSE6VNJFX5Z1B23X.png",
     "recipes": [
       {
         "name": "Golden Grid by Kyungjun Lee",
@@ -86,7 +112,7 @@
     "name": "Nikon | RED",
     "position": null,
     "bio": "RED ve Nikon teknolojisinin birleşimi, daha önce hiç olmadığı kadar benzersiz ve çekici bir ifade yarattı. Size ifade gücünüzü açığa çıkaracak eşi benzeri görülmemiş bir tarif vereceğiz.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig56.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC04YDR84623JKX84WW0JM/01M4WC04YDR84623JKX84WW0JM.png",
     "recipes": [
       {
         "name": "CineBias by RED",
@@ -139,7 +165,7 @@
     "name": "Instant Film Studio",
     "position": "film video stüdyosu",
     "bio": "2013 yılında kurulan Instant Film Studio, sinematik görüntülerin belgesel duyarlılığıyla harmanlanmasına öncülük ediyor. Çalışmalarımız, ikonik görsel dilimiz aracılığıyla duyguları ve insani bağları aktarmaya adanmıştır. Teknik gelişime odaklanıyor ve olağanüstü ekibimizin becerilerini güçlendirmek için emeklerimizi fotoğraf makinesi çekirdek ayarı, renk alanı yönetimi, hareket yakalama ve ses tasarımı alanlarında sarf ediyoruz. Özel olarak geliştirilmiş LUT’lerimiz piyasada popüler bir seçim haline gelmiştir. Bir düğün töreninin, katılan herkes için anlamlı ve özel bir opera gibi olduğuna inanıyoruz. Temelimiz teknoloji, ruhumuz ise duygulardır. Görüntülerimiz aracılığıyla, hatırlanmaya değer her aşk hikayesini onurlandırıyoruz.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig59.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC0ZX0G1HDZFAB9E36KEXZ/01M4WC0ZX0G1HDZFAB9E36KEXZ.png",
     "recipes": [
       {
         "name": "Movie Green Orange by Instant Film Studio",
@@ -152,7 +178,7 @@
     "name": "Ludwig Favre",
     "position": "fotoğrafçı",
     "bio": "Ludwig Favre, eski filmlerin sıcak renklerinden ve nostaljik hissinden esinlenen canlı, sinematik görüntüleriyle tanınan bir Fransız fotoğrafçıdır. Çalışmalarıyla şiirsel anlar yakalıyor ve gündelik sahneleri, izleyicileri retro bir cazibe dünyasına davet eden zamansız, çağrıştırıcı kompozisyonlara dönüştürüyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig57.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC1RDCMVFGAC702C12435W/01M4WC1RDCMVFGAC702C12435W.png",
     "recipes": [
       {
         "name": "VINTAGE FILM by Ludwig Favre",
@@ -165,7 +191,7 @@
     "name": "Siinapse",
     "position": "fotoğrafçı/videografiker",
     "bio": "Siinapse, Paris’te yaşayan, moda ve yaşam tarzı içeriklerinde uzman, serbest bir fotoğrafçı ve videografikerdir. Çalışmalarının çoğunu açık havada gerçekleştiriyor ve modellerini ortaya çıkarmak ve vurgulamak için çevresinden, Paris ve Afro-Amerikan kültürel etkilerinden yararlanıyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig58.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC2F7Z5Z8X1YZTVY8871DD/01M4WC2F7Z5Z8X1YZTVY8871DD.png",
     "recipes": [
       {
         "name": "Golden Brown by Siinapse",
@@ -178,7 +204,7 @@
     "name": "yomowasa",
     "position": "Fotoğrafçı",
     "bio": "1981’de Japonya’nın Kanagawa Eyaleti’nde doğdu ve şu anda Tokyo’da partneri ve iki kedisiyle birlikte yaşıyor. 2013’te hayatına girdikleri andan itibaren Instagram’da onların fotoğraflarını paylaşmaya başladı ve birlikte geçirdikleri günlük anlarını belgelemeye devam ediyor. Fotoğrafçılığı kedilere ve tanıdık, günlük sahnelere odaklanıyor. Nostaljik bir ambiyans yaratmaya büyük önem veriyor, genellikle bu duyguyu uyandırmak için film benzeri doku ve yumuşak, nazik renkler kullanıyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig54.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC371DV6G9S0AVBH2M3JQ9/01M4WC371DV6G9S0AVBH2M3JQ9.png",
     "recipes": [
       {
         "name": "Café Cat by yomowasa",
@@ -195,8 +221,8 @@
   {
     "name": "24Frames",
     "position": "Ünlü Video Prodüksiyon Ekibi",
-    "bio": "24Frames, 2004 yılında basit bir hayalle başladı: Günlük hayattan sinematik anlar yaratmak. Geçtiğimiz yirmi yıl boyunca düğünler, belgeseller, reklam filmleri, reality şovlar ve ünlüler için özel projeler hazırladık ve bunların hepsinde görsel hikaye anlatımının yeni boyutlarını keşfettik.Her hikayenin yanında yer alarak, film yapımına olan tutkumuz ve yaratıcı ruhumuz yaptığımız her şeyi şekillendirmeye devam ediyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig55.png",
+    "bio": "24Frames, 2004 yılında basit bir hayalle başladı: Günlük hayattan sinematik anlar yaratmak. Geçtiğimiz yirmi yıl boyunca düğünler, belgeseller, reklam filmleri, reality şovlar ve ünlüler için özel projeler hazırladık ve bunların hepsinde görsel hikaye anlatımının yeni boyutlarını keşfettik.\nHer hikayenin yanında yer alarak, film yapımına olan tutkumuz ve yaratıcı ruhumuz yaptığımız her şeyi şekillendirmeye devam ediyor.",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC4DPAZEKHG2RGC6DDF59Z/01M4WC4DPAZEKHG2RGC6DDF59Z.png",
     "recipes": [
       {
         "name": "24Look by 24Frames",
@@ -209,7 +235,7 @@
     "name": "Eeva Makinen",
     "position": "doğa fotoğrafçısı",
     "bio": "Eeva, Finlandiya'nın Kuusamo şehrinde yaşayan bir doğa fotoğrafçısıdır. Fotoğrafçılığın yanı sıra yazarlık ve fotoğrafçılık gezisi rehberliği de yapmaktadır. 2017’den beri Nikon ile iş birliği yapıyor ve kendisi bir Nikon Creator'dır. Görüntüleri için rüya gibi ışık aramaya bayılır ve fotoğraflar için ilham, evine yakın manzaralardan gelir.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig47.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC52FQDV8RGDA1CC8XT4XS/01M4WC52FQDV8RGDA1CC8XT4XS.png",
     "recipes": [
       {
         "name": "Winter Hues by Eeva",
@@ -222,7 +248,7 @@
     "name": "Eyes Of Belga",
     "position": "fotoğrafçı",
     "bio": "Eyes Of Belga, Fransız sanat hassasiyetlerinin eşsiz bir harmanını yansıtan çalışmalar yapan tutkulu bir fotoğrafçıdır. Merak ve yaratıcılıkla hareket eden Eyes Of Belga, canlı sokak sahnelerinden, etkileyici portrelerden veya günlük yaşamın detaylı çalışmalarından yola çıkarak hikayeler anlatan anları yakalar. Fotoğrafçılığı, güçlü bir kompozisyon anlayışı ve doğal ışığa olan ilgisiyle öne çıkarak her görüntüye farklı bir ruh hali ve atmosfer katar. Etrafından ve kültürel mirasından sürekli ilham alan Eyes Of Belga’nın portföyü, çok yönlü ve gelişen bir vizyon sergileyerek onu çağdaş fotoğraf sahnesinde dikkat çekici bir figür haline getirmektedir.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig48.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC5S1S3QEAK1Q4DPFPCBC8/01M4WC5S1S3QEAK1Q4DPFPCBC8.png",
     "recipes": [
       {
         "name": "Cyanora by Eyes Of Belga",
@@ -234,8 +260,8 @@
   {
     "name": "Marcello Zerletti",
     "position": "fotoğrafçı/içerik yaratıcısı/kitap yazarı",
-    "bio": "Kayınpederimin fotoğraf makinesi sayesinde 2010 yılında fotoğrafçılığa ilgi duymaya başladım. Çiçekler ve hayvanlarla başladım, portrelerle denemeler yaptım ve şimdi buradayım. Hiç fotoğrafçılık eğitimi almadım; her zaman sezgilerimin, tutkumun ve hislerimin beni yönlendirmesine izin verdim ve birçok farklı şey denedim.Otomotiv, seyahat ve mimarlık alanlarında çeşitli şirketler için çalışmanın yanı sıra, memleketim Berlin’i keşfetmeyi tercih ederim; objektifimin önüne gelen ve güzel bulduğum her şeyi fotoğraflıyorum.Sabah çok erken saatlerde fotoğraf makinemi alıp dışarı çıkmak, her şeyin hala uyuduğu saatlerde kalkmak ve aksi takdirde görünmez kalacak şeyleri yakalamak bana tam olma hissi veriyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig49.png",
+    "bio": "Kayınpederimin fotoğraf makinesi sayesinde 2010 yılında fotoğrafçılığa ilgi duymaya başladım. Çiçekler ve hayvanlarla başladım, portrelerle denemeler yaptım ve şimdi buradayım. Hiç fotoğrafçılık eğitimi almadım; her zaman sezgilerimin, tutkumun ve hislerimin beni yönlendirmesine izin verdim ve birçok farklı şey denedim.\nOtomotiv, seyahat ve mimarlık alanlarında çeşitli şirketler için çalışmanın yanı sıra, memleketim Berlin’i keşfetmeyi tercih ederim; objektifimin önüne gelen ve güzel bulduğum her şeyi fotoğraflıyorum.\nSabah çok erken saatlerde fotoğraf makinemi alıp dışarı çıkmak, her şeyin hala uyuduğu saatlerde kalkmak ve aksi takdirde görünmez kalacak şeyleri yakalamak bana tam olma hissi veriyor.",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC6MNG4QE3W3E2B6R3G6N4/01M4WC6MNG4QE3W3E2B6R3G6N4.png",
     "recipes": [
       {
         "name": "Summertime by Marcello Zerletti",
@@ -248,7 +274,7 @@
     "name": "Francois Lamoureux",
     "position": "sinemacı/fotoğrafçı",
     "bio": "Francois Lamoureux, çok yönlü ve tutkulu bir sinemacı ve fotoğrafçıdır. Francois, güçlü bir sinematik görsel stille, durağan ve hareketli görüntüler aracılığıyla hikayeler anlatıyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig50.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC7DXFTSHBTYT38F5DWEPV/01M4WC7DXFTSHBTYT38F5DWEPV.png",
     "recipes": [
       {
         "name": "Vibrant 2383 by Francois Lamoureux",
@@ -261,7 +287,7 @@
     "name": "Kimura Hinami",
     "position": "Fotoğrafçı",
     "bio": "1996’da Japonya’nın Hyogo Eyaleti’nde doğan Kimura, üniversite yıllarında bir SLR fotoğraf makinesi satın aldı ve fotoğraf çekmenin ne kadar keyifli olduğunu keşfetti. Çoğu kişinin sadece yanından geçip gittiği günlük hayatın içinde gizli kalmış güzel sahneleri yakalıyor ve onların cazibesini sosyal medyada paylaşıyor. Ayrıca kendi fotoğraf kitaplarını ve kartpostallarını da satıyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig51.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC862AZRMR0CW90EVRC58N/01M4WC862AZRMR0CW90EVRC58N.png",
     "recipes": [
       {
         "name": "Faded Blue Film by Kimura Hinami",
@@ -279,7 +305,7 @@
     "name": "Kazu Fujisawa",
     "position": "Fotoğrafçı",
     "bio": "Fujisawa, Japonya’nın Kobe şehrinde doğmuş bir fotoğrafçıdır. Moda, müzik ve eğlence fotoğrafçılığı yapıyor ve Japonya’da ve yurt dışında fotoğraf sergilerine katılıyor. Ne zaman yeni bir fotoğraf kitabı çıkarırsa sadece sosyal medya duyurusuna dayanarak yaklaşık 300 kopya satıyor. COVID-19 salgını sırasında fotoğraf çekmeye başladı ve sahip olduğu çevrimdışı etkiye değer veriyor, bu nedenle ders verme, fotoğraf yürüyüşleri düzenleme ve 100’den fazla sergi katılımcısıyla fotoğrafçılık, müzik ve bit pazarlarını birleştiren etkinlikler planlama ve düzenleme gibi çeşitli faaliyetlerle meşgul oluyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig52.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC8VK0TXTCKC5PGPG5KVJB/01M4WC8VK0TXTCKC5PGPG5KVJB.png",
     "recipes": [
       {
         "name": "Vintage Portrait by Kazu Fujisawa",
@@ -302,7 +328,7 @@
     "name": "Wong",
     "position": "Fotoğrafçı",
     "bio": "Wong, karakterleri gerçek anlamda çekmeye ve duygusal bir atmosfer yaratmaya odaklanan bağımsız bir portre fotoğrafçısıdır. Fotoğraf çalışmalarını, gerçek benliği kabul etmenin gücünü aktarmak için kullanmayı umuyor. Karakterlerin duygularını yakalamada ve gerçekçi sahnelerde ışık ve gölgeyi kullanmada başarılı. 2019’dan bu yana 6 yıldır fotoğrafçılıkla uğraşıyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig53.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WC9QPSR2V0HFKZSRQH4CT8/01M4WC9QPSR2V0HFKZSRQH4CT8.png",
     "recipes": [
       {
         "name": "Green Soul By Wong",
@@ -315,7 +341,7 @@
     "name": "Eisuke Ishibashi",
     "position": "Fotoğrafçı",
     "bio": "Eisuke Ishibashi 1988 yılında Tokyo’da dünyaya geldi. Portre fotoğrafçılığına 2015 yılında başladı ve masalsı bir görünüm elde etmek için ışık ve benzersiz renkler kullanıyor. 2017 yılında düğün fotoğrafçısı olarak çalışmaya başladı. Gelin ve damat arasındaki ambiyansı ifade eden doğal görüntüler yaratıyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig46.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCAKZ4T12EHN007MXS3M46/01M4WCAKZ4T12EHN007MXS3M46.png",
     "recipes": [
       {
         "name": "Crystal Clear by Eisuke Ishibashi",
@@ -328,7 +354,7 @@
     "name": "Yuri",
     "position": "Fotoğrafçı",
     "bio": "Yuri Osaka’da yaşıyor. Yumuşak pastel temalı manzara, çiçek ve insan fotoğrafları çekiyor. Kurumsal reklamcılık ve sosyal medya da dahil olmak üzere turizm fotoğrafçılığının çeşitli alanlarında aktif olarak çalışıyor. Ayrıca fotoğrafçılık seminerlerinde ders veriyor, video üretiyor ve medya için yazılar kaleme alıyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig45.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCBSC9ASV4ZA71YEFAEH7M/01M4WCBSC9ASV4ZA71YEFAEH7M.png",
     "recipes": [
       {
         "name": "Pale Tale by Yuri",
@@ -341,7 +367,7 @@
     "name": "Yohei Sawamura",
     "position": "Fotoğrafçı",
     "bio": "1985’te Kyoto Eyaleti’nde doğan Sawamura, kuaför, Japon şef, barista ve kahve kavurucusu olarak çalışarak ilginç bir kariyere sahip oldu. Kurumsal projeler, reklam fotoğrafçılığı, çevrimiçi kuaför salonu işletmeciliği ve sosyal medya marka yönetimi konusunda danışmanlık da dahil olmak üzere çok çeşitli alanlarda faaliyet göstermektedir. “Kyoto Boys: Photography, Kyoto, and Men's Travel” adlı YouTube kanalı da popülerdir.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig35.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCCQJZ1A8D7T4D5WRH3908/01M4WCCQJZ1A8D7T4D5WRH3908.png",
     "recipes": [
       {
         "name": "Heartwarming by Yohei Sawamura",
@@ -354,7 +380,7 @@
     "name": "Faloo Mi",
     "position": "Seyahat ve Yaşam tarzı Üreticisi İkili",
     "bio": "Ünlü bir seyahat ve yaşam tarzı çifti olan Faloo Mi, maceralarındaki iyimserlik ve samimiyetin özünü güzel bir şekilde yakalayan canlı ve güneş ışığıyla bezenmiş fotoğrafçılık tarzlarıyla tanındı.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig37.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCDGTH8TB6B3V6CKHT4SGY/01M4WCDGTH8TB6B3V6CKHT4SGY.png",
     "recipes": [
       {
         "name": "Call It Love by Faloo Mi",
@@ -367,7 +393,7 @@
     "name": "Fabio Oliveira",
     "position": "fotoğrafçı/hikaye anlatıcı",
     "bio": "Fabio, seyahat, doğa ve insan ilişkilerinin ruhunu yakalayan Avustralyalı bir fotoğrafçı ve hikaye anlatıcıdır. Canlı kıyı kaçamaklarından dingin orman inzivalarına kadar, çalışmaları izleyicileri hayatın sessiz ve maceralı anlarının güzelliğini kucaklamaya davet ediyor. Seyahat ve yaşam tarzı markalarının güvendiği Fabio’nun objektifi, seyahat tutkusuna ve anlamlı keşiflere ilham veren sıcak, sürükleyici bir bakış açısı sunuyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig36.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCEAD4QEC5R0N85HFGVYHY/01M4WCEAD4QEC5R0N85HFGVYHY.png",
     "recipes": [
       {
         "name": "Filmic by Fabio Oliveira",
@@ -380,7 +406,7 @@
     "name": "Fujikawa hinano",
     "position": "Fotoğrafçı",
     "bio": "Fujikawa Tokyo’da dünyaya geldi. Fotoğrafçılığı genellikle dergi ve reklamlarda kullanılan portre üzerine yoğunlaşan sanatçı, gündelik ve sıra dışı olanın içinde var olan belirsizliği ve duyguları dikkatle ifade etmeye çalışıyor. Nisan 2023’te, “Everything Everywhere” adlı kişisel sergisiyle eşzamanlı olarak bir fotoğraf kitabı (ZINE) yayınladı. 2024 yılının Nisan ayında, bir grafik tasarımcısıyla birlikte “A Little Out of the Ordinary Side” başlıklı ortak bir sergi düzenledi.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig33.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCF29MQT5JSSHWE41VXD9X/01M4WCF29MQT5JSSHWE41VXD9X.png",
     "recipes": [
       {
         "name": "Rose Old Film by Fujikawa hinano",
@@ -398,7 +424,7 @@
     "name": "Taishi Arashida",
     "position": "Fotoğrafçı",
     "bio": "Tokyo’da yaşayan Arashida, öncelikle aileleri ve şehir manzaralarını fotoğraflıyor. Minimalist bir tarz ve film benzeri renklerle günlük sahneleri yakalamakta uzmanlaşmıştır. Hem Japonya’daki hem de denizaşırı ülkelerdeki dergilere ve çevrimiçi medya kuruluşlarına fotoğraflar sağlamaktadır. Aralık 2021’de Tokyo, Ginza’da “Evanescence” adlı ilk kişisel sergisini açtı. Kitapları arasında her ikisi de GENKOSHA Co., Ltd. tarafından yayınlanan “Edit Digital Photos to Look Like Film” (Dejitaru de Firumu o Saigen Shitai) ve “Let's Talk About Photography, Not Cameras” (Kamera Janaku, Shashin no Hanashi o Shiyou) bulunmaktadır.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig34.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCFRRAS7CT07HET2D0PFV8/01M4WCFRRAS7CT07HET2D0PFV8.png",
     "recipes": [
       {
         "name": "Japanesque Film by Taishi Arashida",
@@ -411,7 +437,7 @@
     "name": "Najmuddin Muif",
     "position": "seyahat fotoğrafçısı",
     "bio": "Adım Najmuddin Muif ve Malezyalı bir seyahat fotoğrafçısıyım. Kameramın objektifinden dünyayı yakalamayı seviyorum. Hikaye anlatma tutkusuyla, kısacık anları zamansız görsellere dönüştürerek kültürlerin, manzaraların ve hayatın sessiz ayrıntılarının güzelliğini sergiliyorum.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig41.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCGHKHFB272XE60YYB5QWP/01M4WCGHKHFB272XE60YYB5QWP.png",
     "recipes": [
       {
         "name": "Coastal Glow by Najmuddin Muif",
@@ -424,7 +450,7 @@
     "name": "Hiuman Lam",
     "position": "yazar/fotoğrafçı/küratör",
     "bio": "Hiuman Lam bir yazar, fotoğrafçı ve küratördür. 2020 yılında, Hong Kong’un kültürel mirasını belgelemeye adanmış “Hong Kong Reminiscence”ı kurdu. Yurt içi ve yurt dışında fotoğraf ve tasarımla ilgili birçok sergide yer aldı. Hong Kong’un eşsiz kültürünü çeşitli araçlarla kaydetmeyi ve tarihi belleğe dönüştürmeyi umuyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig39.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCH710YTSFEHKG08ZNGJS1/01M4WCH710YTSFEHKG08ZNGJS1.png",
     "recipes": [
       {
         "name": "HK Reminiscence by Hiuman Lam",
@@ -437,7 +463,7 @@
     "name": "Harpreet Singh",
     "position": "Moda ve Ünlülerin Portre Fotoğrafçısı",
     "bio": "Harpreet Singh, stil ve kişiliğin özünü yakalamak için nadir bir yeteneğe sahip olan, detaylara karşı keskin bir göz ve konularıyla bağlantı kurma konusunda doğuştan gelen bir yeteneğe sahip olan ünlü moda ve ünlülerin portre fotoğrafçısıdır. Harpreet, trendlerin ötesine geçen çağrışımlı ve büyüleyici görüntüler üreterek sektörde aranan bir isim haline geldi.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig38.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCJ1DYET3KT55TPV0RR94E/01M4WCJ1DYET3KT55TPV0RR94E.png",
     "recipes": [
       {
         "name": "The SOFT GLOW AURA by Harpreet Singh",
@@ -450,7 +476,7 @@
     "name": "Ben",
     "position": "Bağımsız sokak Fotoğrafçısı",
     "bio": "Bağımsız sokak fotoğrafçısı, 2019 yılında farklı yerlerdeki sokak ve manzara görüntülerini kaydetmek için benzersiz perspektif ve fotoğraflar kullanarak kısa videolar oluşturmaya başladı. Işık ile gölgenin hikayesini yakalamakta başarılıdır, herkesin fotoğraf yaratma sevgisine ve motivasyonuna ilham verme amacıyla izleyicilere son derece sürükleyici bir fotoğraf deneyimi yaşatır.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig42.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCJS792N9TR9S5R4NKN71J/01M4WCJS792N9TR9S5R4NKN71J.png",
     "recipes": [
       {
         "name": "Warm Street by Ben",
@@ -462,8 +488,8 @@
   {
     "name": "Vijay Eesam",
     "position": "Düğün fotoğrafçısı",
-    "bio": "Vijay Eesam, Hindistan’da güzel sanatlar yaklaşımı ve yenilikçi teknikleriyle tanınan ünlü bir düğün fotoğrafçısıdır. Kariyerine 2009 yılında 15 destekçinin finanse ettiği bir Nikon D300 ile başlayan Vijay, “aşıklar” için aranan bir marka olarak büyük itibar kazandı.Vijay’in yapay zekaya olan tutkusu, onu fotoğrafçılar için hepsi bir arada bir CRM olan ve Hindistan’ın en iyi binlerce fotoğrafçısı tarafından işlerini sorunsuz bir şekilde yönetmek için kullanılan Huemn’i geliştirmeye yöneltti.\\nMove Up adlı topluluk kulübü aracılığıyla son misyonu ise yeni nesil fotoğrafçılara düğün fotoğrafçılığında anlamlı bir sanat yaratmaları için ilham vermek.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig44.png",
+    "bio": "Vijay Eesam, Hindistan’da güzel sanatlar yaklaşımı ve yenilikçi teknikleriyle tanınan ünlü bir düğün fotoğrafçısıdır. Kariyerine 2009 yılında 15 destekçinin finanse ettiği bir Nikon D300 ile başlayan Vijay, “aşıklar” için aranan bir marka olarak büyük itibar kazandı.\nVijay’in yapay zekaya olan tutkusu, onu fotoğrafçılar için hepsi bir arada bir CRM olan ve Hindistan’ın en iyi binlerce fotoğrafçısı tarafından işlerini sorunsuz bir şekilde yönetmek için kullanılan Huemn’i geliştirmeye yöneltti. Move Up adlı topluluk kulübü aracılığıyla son misyonu ise yeni nesil fotoğrafçılara düğün fotoğrafçılığında anlamlı bir sanat yaratmaları için ilham vermek.",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCKDATEKW07SGYW0RR8VM2/01M4WCKDATEKW07SGYW0RR8VM2.png",
     "recipes": [
       {
         "name": "Soft Vivid by Vijay Eesam",
@@ -476,7 +502,7 @@
     "name": "Jatenipat Ketpradit (JKBoy)",
     "position": "Portre/Seyahat Fotoğrafçısı",
     "bio": "Ödüllü bir fotoğrafçı ve kültürel hikaye anlatıcı olan JKBoy Jatenipat Ketpradit, dünyanın dört bir yanındaki geleneklerin nefes kesici görsellerini yakalıyor. Sanatsal yeteneğiyle tanınan sanatçı, güzel sanatlar ve sergiler aracılığıyla kültürü öne çıkarmaktadır.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig40.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCM69DJFEY2WMYFKCXT15H/01M4WCM69DJFEY2WMYFKCXT15H.png",
     "recipes": [
       {
         "name": "Sunset Film Portrait by Jatenipat Ketpradit (JKBoy)",
@@ -489,7 +515,7 @@
     "name": "Peng Mango",
     "position": "bağımsız fotoğrafçısı",
     "bio": "Bağımsız bir fotoğrafçı olan Peng Mango, canlılık dolu dinamik anları yakalama konusunda uzmanlaşmıştır. Fotoğraflarıyla neşe ve enerjiyi aktarmayı amaçlıyor. 2014’ten beri 11 yıldır fotoğrafçılık alanında çalışıyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig43.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCN12X9ZMBJQJV1BGG1ZZJ/01M4WCN12X9ZMBJQJV1BGG1ZZJ.png",
     "recipes": [
       {
         "name": "Vitality Film by Peng Mango",
@@ -502,7 +528,7 @@
     "name": "Noise Woo",
     "position": "Bağımsız Fotoğrafçı",
     "bio": "Noise Woo, büyüleyici ışık ve canlı renkler altında eşsiz şehir manzaraları yakalama konusunda yetenekli bağımsız bir fotoğrafçıdır. Weibo sertifikalı 2023’ün Mükemmel Fotoğrafçısı, Red Book sertifikalı bir fotoğrafçı ve tüm platformlarda milyonlarca takipçisi olan bir blog yazarıdır. Düzinelerce ülkede seyahat fotoğrafçılığı deneyimi olan sanatçının hayran kitlesi tüm dünyayı kapsıyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig28.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCNRPJRQW2F93GBTC47DCG/01M4WCNRPJRQW2F93GBTC47DCG.png",
     "recipes": [
       {
         "name": "Movie Green Orange by Noise Woo",
@@ -520,7 +546,7 @@
     "name": "Wazika",
     "position": "Portre Fotoğrafçısı",
     "bio": "Wazika, siyah-beyaz duygusal portreler çekmekte başarılı bir portre fotoğrafçısı. Kendisi 8 yıldır portre fotoğrafçılığı yapmaktadır. Modern Girls serisi sosyal medyada geniş yankı uyandırdı.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig29.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCPE28AHDH0YJT5F74W0HK/01M4WCPE28AHDH0YJT5F74W0HK.png",
     "recipes": [
       {
         "name": "Warm-toned Portrait by Wazika",
@@ -538,7 +564,7 @@
     "name": "Takumi Gunji",
     "position": "Fotoğrafçı/Video Yönetmeni",
     "bio": "Takumi Gunji 1995 doğumludur ve koe Inc. ile çalışmaktadır. Musashino Sanat Üniversitesi Sanat ve Tasarım Fakültesi’nden Tasarım Bilimi derecesiyle mezun olduktan sonra, 2021’de kendi başına yola çıkmadan önce Drawing and Manual, Inc. şirketinin bir parçasıydı. Çekimlerini ve kurgularını kendisinin yaptığı müzik videoları ve belgeseller de dahil olmak üzere çeşitli projeler üzerinde çalışıyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig27.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCQ60ZJJ85M4CRGXKDR870/01M4WCQ60ZJJ85M4CRGXKDR870.png",
     "recipes": [
       {
         "name": "Air Green by Takumi Gunji",
@@ -551,7 +577,7 @@
     "name": "Brittany Eliza Kunkel",
     "position": "Fotoğrafçı",
     "bio": "Brittany Kunkel, günlük şehir ortamlarını duygu ve entrika ile dolup taşan “rüya manzaralarına” dönüştüren New York’ta yaşayan bir fotoğrafçıdır. Geniş format yağlı boya ressamlığı geçmişine sahip olan sanatçının bugünkü tarzı, ressam gözünden büyük ölçüde etkileniyor. NYC’nin en ikonik noktalarını yakalamak için benzersiz yollar arıyor ve çalışmaları genellikle nostalji, romantizm ve merak uyandırıyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig30.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCQTS0C37C621JBDDGNNSW/01M4WCQTS0C37C621JBDDGNNSW.png",
     "recipes": [
       {
         "name": "Moody Greens by Brittany Eliza Kunkel",
@@ -574,7 +600,7 @@
     "name": "Preston Luke",
     "position": "Fotoğrafçı/İçerik üreticisi",
     "bio": "Preston, portre, marka ve yaşam tarzı çalışmalarıyla gerçek, ilişkilendirilebilir anları hayata geçiren bir fotoğrafçı ve içerik yaratıcısıdır. Sahne arkası ipuçlarını ve yaratıcı içgörülerini paylaşmasıyla tanınan Preston, fotoğrafçı adaylarından oluşan ve giderek büyüyen bir toplulukla bağlantı kurarak onlara tutkularının peşinden güvenle gitmeleri için ilham veriyor. Preston, özgün görseller ve kişisel hikayeler aracılığıyla başkalarına yaratıcı vizyonlarını hayata geçirmeleri için güç veriyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig32.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCRKNTCXR9PDKPDGZARQNB/01M4WCRKNTCXR9PDKPDGZARQNB.png",
     "recipes": [
       {
         "name": "Vintage Vibes by Preston Luke",
@@ -597,7 +623,7 @@
     "name": "Vincent Versace",
     "position": "Fotoğrafçı/Yazar",
     "bio": "Vincent Versace, uluslararası alanda dijital fotoğrafçılığın öncüsü ve fotoğraf tekniği üzerine en çok satanlar arasına giren birkaç kitabın yazarı olarak tanınmaktadır. Çocukluğundan beri fotoğrafçılığa meraklı olan sanatçının çalışmaları seyahatten portreye ve Hollywood film setlerine kadar her şeyi kapsıyor. Şu anda Los Angeles'ta yaşayan Vincent, zamanını fotoğrafçılık işleri, öğretmenlik ve görüntüleme sektöründeki çeşitli şirketlere danışmanlık yapmak arasında bölüştürüyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig20.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCS9A3E7M3EXHKZJGE304G/01M4WCS9A3E7M3EXHKZJGE304G.png",
     "recipes": [
       {
         "name": "British Film Black and White by Vincent Versace",
@@ -620,7 +646,7 @@
     "name": "Ian Harland",
     "position": "Fotoğrafçı",
     "bio": "Ian Harland, macera, ticari ve editoryal çalışmalara odaklanan Vancouver’da yaşayan bir fotoğrafçıdır. Doğal dünyanın özünü yakalamak için turizm kurulları, markalar ve dergilerle iş birliği yapıyor. Ian’ın çalışmaları, teknik hassasiyeti yaratıcı bir vizyonla harmanlayarak her projeyi hikaye anlatımı ve güçlü görüntülerin bir dengesi haline getiriyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig31.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCT077AW59V93AXBDQEG80/01M4WCT077AW59V93AXBDQEG80.png",
     "recipes": [
       {
         "name": "Honey by Ian Harland",
@@ -643,7 +669,7 @@
     "name": "Julia Nimke",
     "position": "Seyahat/Yaşam Tarzı Fotoğrafçısı",
     "bio": "Julia Nimke, dünya çapında çalışan Berlin merkezli bir fotoğrafçıdır. Doğadan derin ilham alan sanatçının çalışmalarına turizm, reklam ve yaşam tarzı alanlarında faaliyet gösteren uluslararası şirketler güveniyor. İzleyicileri kendi objektifinden dünyayı keşfetmeye davet ediyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig14.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCTV6ZDZE5QKWVNG4E8ZHA/01M4WCTV6ZDZE5QKWVNG4E8ZHA.png",
     "recipes": [
       {
         "name": "Sunkissed Warmth by Julia Nimke",
@@ -671,7 +697,7 @@
     "name": "Fuka Kamata",
     "position": "Fotoğrafçı",
     "bio": "Fuka Kamata 2017 yılında fotoğrafçı olarak çalışmaya başladı. Yumuşak ışık altında doğal ve yarı saydam manzaralar ve portreler konusunda uzmanlaşmıştır ve fotoğraf yoluyla yaşamın ve gündelik hayatın küçük sevinçlerini ifade etmeye değer vermektedir. Öncelikli olarak aileleri evlerinde veya dışarıda fotoğraflamakta, fotoğrafçılık seminerlerinde eğitmenlik yapmakta ve reklam fotoğrafçılığı yapmaktadır.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig25.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCVK2T0MK8DABSKSDATXC5/01M4WCVK2T0MK8DABSKSDATXC5.png",
     "recipes": [
       {
         "name": "Tender Clear by Fuka Kamata",
@@ -684,7 +710,7 @@
     "name": "Dondre Green",
     "position": "Portre Fotoğrafçısı",
     "bio": "Dondre Green, yenilikçi anlatım ve hikâye anlatımı konusunda uzmanlaşmış New York merkezli bir sanat yönetmeni ve fotoğrafçıdır. Yerel halkı öne çıkaran ve kültüle ilişkili etkinliklere ev sahipliği yapan bir toplum hizmet platformu olan Bronx Narratives’in kurucusudur.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig15.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCW9BHQPY029EX58WDZAHH/01M4WCW9BHQPY029EX58WDZAHH.png",
     "recipes": [
       {
         "name": "Summertime Shine by Dondre Green",
@@ -697,7 +723,7 @@
         "detailUrl": "/recipe/release/detail/?id=01JD1WBKSYMTBRY5Z0P5VS6TCC"
       },
       {
-        "name": "Nights Like This  by Dondre Green",
+        "name": "Nights Like This by Dondre Green",
         "id": "01JD1WBKPFS7XJBAYVQNF8YZ6P",
         "detailUrl": "/recipe/release/detail/?id=01JD1WBKPFS7XJBAYVQNF8YZ6P"
       }
@@ -707,7 +733,7 @@
     "name": "D’Ann Boal",
     "position": "Portre Fotoğrafçısı/Eğitimci",
     "bio": "D'Ann Boal, fotoğrafçılığı tam zamanlı bir iş haline getirmeden önce, ilk olarak yenidoğan oğlunun fotoğraflarını çekmek için eline fotoğraf makinesi alan ödüllü bir portre fotoğrafçısı ve eğitimcidir. D'Ann’in çekimleri romantik ve ruhani; güzel, samimi portreleri Boulder, Colorado yakınlarındaki stüdyosunu çevreleyen çarpıcı doğal manzaralarla birleştiriyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig18.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCX2AB91DPS0QGG79EJ21Y/01M4WCX2AB91DPS0QGG79EJ21Y.png",
     "recipes": [
       {
         "name": "Golden Hour Glow by D'Ann Boal",
@@ -730,7 +756,7 @@
     "name": "TAKASU TILE",
     "position": "Rural Life YouTube İçerik Üreticisi",
     "bio": "TAKASU TILE, 50 yıl önce inşa edilen aile evini yeniledi ve dünyayı dolaşırken orada keyif aldığı kırsal yaşam tarzını paylaşıyor. YouTube’da paylaştığı, sıradan olanı olağanüstü hale getirme temasına dayanan ve ülkedeki günlük yaşamın güzel görüntülerini içeren videolar, Japonya’daki ve yurt dışındaki izleyiciler arasında popülerlik kazandı.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig21.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCXVQEQF5T06X3SMRXB6QN/01M4WCXVQEQF5T06X3SMRXB6QN.png",
     "recipes": [
       {
         "name": "Kota-Green by TAKASU TILE",
@@ -743,7 +769,7 @@
     "name": "tanco",
     "position": "Fotoğrafçı",
     "bio": "Tanco'nun model olarak çalışması, fotoğraf makinelerine olan ilgisini ateşledi ve fotoğrafçılığa geçişine ilham verdi. Değerli anları biriktirme temasından yola çıkarak gündelik hayatın basit ihtişamını fotoğraflamaya odaklanıyor. Çalışmaları, çektiği fotoğrafları birleştirmesi ve fotoğrafların sunduğu izlenimi tamamlayan metinler ekleyerek fotoğraf hikayeleri oluşturması açısından özgündür.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig23.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCYTJ1HJF39WBC9J3X6W29/01M4WCYTJ1HJF39WBC9J3X6W29.png",
     "recipes": [
       {
         "name": "Matte Blue Gray by tanco",
@@ -756,7 +782,7 @@
     "name": "Gilmar Smith",
     "position": "Fotoğrafçı",
     "bio": "Venezuela doğumlu Gilmar Smith, fotoğrafçılığı sadece mesleği olarak değil, aynı zamanda hayatı boyunca ona rehberlik eden bir ışık ve neşe kaynağı olarak görüyor. Gilmar bu neşeyi özneleriyle, müşterileriyle ve çalışmalarını inceleyen herkesle paylaşmayı amaçlıyor. Gilmar’ın dünya çapında çok sayıda yayında yer alan fotoğrafları, cesur renk kullanımı, çarpıcı özgün kompozisyonları ve eğlenceli mizah anlayışıyla kolayca ayırt edilebiliyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig19.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WCZJ2RKEF3S1BV7XW7DHXK/01M4WCZJ2RKEF3S1BV7XW7DHXK.png",
     "recipes": [
       {
         "name": "Color Splash by Gilmar Smith",
@@ -779,7 +805,7 @@
     "name": "Yuki Hirotani",
     "position": "Fotoğrafçı",
     "bio": "Yuki Hirotani Osaka’da doğdu. Nisan 2024'te serbest fotoğrafçı olarak paralel bir kariyere başladı.Gelecek vaat eden bir fotoğrafçı olarak çalışmalarını kurumsal projeler, dergilerde yayınlar ve öğretmenliği de kapsayacak şekilde genişletiyor. Sosyal medyada paylaştığı fotoğraflar, ona yaşadığını hissettiren anları kendine özgü ve alışılmadık tarzıyla ifade ediyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig26.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD086PSQCT0PPNJWN3Z4NC/01M4WD086PSQCT0PPNJWN3Z4NC.png",
     "recipes": [
       {
         "name": "Turquoise Blue by Yuki Hirotani",
@@ -797,7 +823,7 @@
     "name": "Amanatsu Mikan",
     "position": "Model/Fotoğrafçı",
     "bio": "Amanatsu Mikan 2018 yılında fotoğrafçı olarak bir sosyal medya hesabı açtı. Zamanla fotoğraf çektirmekten hoşlanmaya başladı ve şu anda hem model hem de fotoğrafçı olarak aktif. Çoğunlukla portre olan fotoğrafların temel karakteri sıcak, yumuşak tonlara sahip olması. Ayrıca sergiler ve fotoğraf yürüyüşleri gibi sosyal medya dışındaki projeler üzerinde de çalışıyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig24.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD0YZPVSMQ8KPJX0NTW3ZH/01M4WD0YZPVSMQ8KPJX0NTW3ZH.png",
     "recipes": [
       {
         "name": "Sunset Glow by Amanatsu Mikan",
@@ -810,7 +836,7 @@
     "name": "Leno Cainelli",
     "position": "İçerik Üreticisi",
     "bio": "Leno Cainelli, 300 binden fazla takipçisi olan Birleşik Krallıklı bir içerik yaratıcısı. Yalnızlık içindeki gündelik anları yakalıyor ve onları sıradanlığın içindeki güzelliği ve olağanüstülüğü ortaya çıkaran zamansız bir sanata dönüştürüyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig16.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD1P25Y15082VG06YQSKT8/01M4WD1P25Y15082VG06YQSKT8.png",
     "recipes": [
       {
         "name": "Soft Film by Leno Cainelli",
@@ -838,7 +864,7 @@
     "name": "Haruka Koharu",
     "position": "Fotoğrafçı",
     "bio": "Haruka Koharu Gunma İli’nde dünyaya geldi. İlk SLR fotoğraf makinesini 2015 yılında satın alarak fotoğrafçılığın neşesini keşfetti ve 2023 yılında serbest çalışmaya başladı. Doğal manzaralar, mevsimlik çiçekler ve gündelik yaşam gibi ilham verici sahne ve konuları, dünyayı yumuşak ve görkemli gösterecek şekilde yakalıyor. Çalışmaları, seyahat röportajı fotoğrafçılığı, kurumsal iş birlikleri ve fotoğrafçılık öğretmenliği ile son derece çeşitlidir.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig22.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD2CAPY1YBGAEB8ACX81MP/01M4WD2CAPY1YBGAEB8ACX81MP.png",
     "recipes": [
       {
         "name": "Hidamari Color by Haruka Koharu",
@@ -851,7 +877,7 @@
     "name": "Baek Jaekwang",
     "position": "Tasarımcı",
     "bio": "Baek Jaekwang, bir moda markasının Seul merkezli tasarımcısı ve 331 binden fazla takipçisiyle yemekle ilgili içerikler paylaşan bir içerik yaratıcısı. Tasarımcı olmasında gelen renk zevkini yemek videolarına uygulayarak görsel açıdan büyüleyici içerikler sunuyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig17.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD33SF83FRSYDTRZ0R5QE1/01M4WD33SF83FRSYDTRZ0R5QE1.png",
     "recipes": [
       {
         "name": "Sunset Reset by Baek Jaekwang",
@@ -864,7 +890,7 @@
     "name": "Luna Atlantis",
     "position": "Bağımsız fotoğrafçı",
     "bio": "Işık ve gölge ile portre çekimi konusunda uzmanlaşmış bağımsız fotoğrafçı, 2013 yılından beri fotoğrafçılık sektöründe. “Silent Light” isimli fotoğraf albümünü ve “A Moment of Light and Shadow” isimli fotoğrafçılık eğitim kitabını yayınladı.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig13.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD3TAVYXYVE0CRWH791DM0/01M4WD3TAVYXYVE0CRWH791DM0.png",
     "recipes": [
       {
         "name": "Blue Hour by Luna",
@@ -881,11 +907,11 @@
   {
     "name": "Links",
     "position": "Fotoğrafçı/Influencer",
-    "bio": "Tokyo Politeknik Üniversitesi Fotoğrafçılık Bölümü’nden mezun oldu.Links, 2018’den bu yana, seyahat deneyimlerini ilgi çekici ve sürükleyici bir yaklaşımla yakalamak ve paylaşmak için fotoğraflar ve videolar kullanarak influencer yaratım faaliyetlerini sürdürmektedir. Fotoğraf ekipmanları konusundaki engin bilgisiyle tanınan Links, fotoğraf makinesi inceleme videoları hazırlıyor ve 2023 yılında Nikon Z8’in küresel lansman etkinliğine dağ manzarası fotoğrafçısı olarak katıldı.Yayınlanmış fotoğrafçılık kitabı: “Traveling in Iceland: A Journey to Another World” Düzenlediği fotoğraf sergileri: “To the Peak” (Ginza, Tokyo) “Snow Country” (Place M)",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig11.png",
+    "bio": "Tokyo Politeknik Üniversitesi Fotoğrafçılık Bölümü’nden mezun oldu.\n\nLinks, 2018’den bu yana, seyahat deneyimlerini ilgi çekici ve sürükleyici bir yaklaşımla yakalamak ve paylaşmak için fotoğraflar ve videolar kullanarak influencer yaratım faaliyetlerini sürdürmektedir. Fotoğraf ekipmanları konusundaki engin bilgisiyle tanınan Links, fotoğraf makinesi inceleme videoları hazırlıyor ve 2023 yılında Nikon Z8’in küresel lansman etkinliğine dağ manzarası fotoğrafçısı olarak katıldı.\nYayınlanmış fotoğrafçılık kitabı: “Traveling in Iceland: A Journey to Another World” Düzenlediği fotoğraf sergileri: “To the Peak” (Ginza, Tokyo) “Snow Country” (Place M)",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD4K4DHY5YQV96Q0Q2V6VG/01M4WD4K4DHY5YQV96Q0Q2V6VG.png",
     "recipes": [
       {
-        "name": "Nature  by Links",
+        "name": "Nature by Links",
         "id": "01JAWBKG4J5WQ6NQWP5NHF928H",
         "detailUrl": "/recipe/release/detail/?id=01JAWBKG4J5WQ6NQWP5NHF928H"
       }
@@ -895,7 +921,7 @@
     "name": "MediaStorm",
     "position": null,
     "bio": "Dijital teknolojide bir profesyonel ve içerik yaratıcısı olan MediaStorm, objektifleriyle gerçek hikayeleri yakalıyor ve yenilikçi fotoğraf teknikleriyle çığır açan gösteriler yaratıyor. İster tüm Dünya’yı görüntülemek için uzaya çıktıklarında ister okyanusun derinliklerine daldıklarında, ister UVIVF (Ultraviyole İndüklenmiş Görünür Floresan) fotoğrafçılığıyla “Fluorescent Forest”ı aydınlattıklarında, misyonları izleyicilerine benzersiz bir şekilde büyüleyici ve unutulmaz görsel deneyimler sunmaktır.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig12.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD5B37XHT5RTPNQG4AMDCH/01M4WD5B37XHT5RTPNQG4AMDCH.png",
     "recipes": [
       {
         "name": "Textured Documentary by MediaStorm",
@@ -908,7 +934,7 @@
     "name": "Hanaa Turkistani",
     "position": "Mimari ve Manzara fotoğrafçısı",
     "bio": "Hanaa Turkistani, Suudi Arabistan’da yaşayan serbest bir fotoğrafçı. En çok mimari ve şehir manzarası fotoğraflarıyla tanınır. Hanaa, atölye çalışmaları sunma, yarışmalarda jürilik yapma ve yaratıcı düzenleme konularında uzmanlaşmıştır.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig10.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD62305CPAJCCJ94PC5EKN/01M4WD62305CPAJCCJ94PC5EKN.png",
     "recipes": [
       {
         "name": "HT Harmony by Hanaa Turkistani",
@@ -921,7 +947,7 @@
     "name": "Y2",
     "position": "Sinematik Videografiker",
     "bio": "Y2, 2019 yılında seyahat videoları üretmeye başladı. Şu anda serbest olarak Tokyo’da turizm ve belgesel video prodüksiyonu ile uğraşıyor. Doğanın ihtişamını yakalayan sinematik ifadeler ve görüntüleri geliştirmek için renk tonlaması konusunda yeteneklidir. Görüntülerin temel cazibesini ve güzelliğini mümkün olduğunca çok insana ulaştırmayı hedefliyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig09.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD6S1ZBNVKD7AGF0DBPM0X/01M4WD6S1ZBNVKD7AGF0DBPM0X.png",
     "recipes": [
       {
         "name": "Cloudy Forest by Y2",
@@ -939,7 +965,7 @@
     "name": "Noci Kosho",
     "position": "Fotoğrafçı/Yazar",
     "bio": "Japonya’nın Yokohama kentinde doğan Noci Kosho, 2016 yılından bu yana dünyanın dört bir yanında 30 ülke gezdi ve şu anda zamanını Chiang Mai, Tayland ve Japonya’nın Iwate İli arasında paylaştırıyor. Sosyal medya üzerinden sunduğu çalışmalarında fotoğrafçılığı ve kelimeleri birleştiriyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig07.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD7GP34FYX5FG16EB41Q3V/01M4WD7GP34FYX5FG16EB41Q3V.png",
     "recipes": [
       {
         "name": "Setouchi Blue by Noci Kosho",
@@ -952,7 +978,7 @@
     "name": "Hiroki Nose",
     "position": "Fotoğrafçı",
     "bio": "Hiroki Nose, 2015 yılında tek objektifli yansıtma fotoğraf makinesi ve bir akıllı telefon ile kendi kendine fotoğrafçılığı ve kurgu yapmayı öğrenerek kariyerine başladı. Bu dönemde geliştirdiği fotoğraf düzenleme teknikleri ve çekim stillerinden yararlanarak, şu anda büyük şirketler ve turizm panelleri için görevler de dahil olmak üzere hem yurt içinde hem de yurt dışında çok çeşitli türler üzerinde çalışıyor. Manzaralar, portreler ve hayvanlar da dahil olmak üzere çeşitli fotoğrafçılık türlerinde uzmanlaşarak çalışmalarına kendine özgü bir ton kazandırıyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig08.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD8AGC2XJ2HB54Q2PKBNKZ/01M4WD8AGC2XJ2HB54Q2PKBNKZ.png",
     "recipes": [
       {
         "name": "Moisture Green by Hiroki Nose",
@@ -965,7 +991,7 @@
     "name": "Takahiro Sakai",
     "position": "Portre/Yaşam Stili Fotoğrafçısı",
     "bio": "Takahiro portre ve enstantane çekimler konusunda uzman. Reklamlardan ünlü ve model çekimlerine, dergilere, fotoğraf albümlerine ve moda fotoğrafçılığına uzanan çalışmaları kendi grafik tasarım geçmişinin etkisi altındaki doğal ve saf ifadesi ile tanınmaktadır. Geleneksel fotoğrafçının iş yelpazesine meydan okuyarak çeşitli faaliyetlerde bulunuyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig02.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD92GR2XT7CC75A4DH3FJQ/01M4WD92GR2XT7CC75A4DH3FJQ.png",
     "recipes": [
       {
         "name": "Pastel Nostalgia by Takahiro Sakai",
@@ -988,7 +1014,7 @@
     "name": "Brandon Woelfel",
     "position": "Portre Fotoğrafçısı",
     "bio": "Brandon Woelfel, şu anda Brooklyn, New York’ta çalışan serbest bir fotoğrafçıdır. En çok Instagram’deki içerikleri ile tanınan Brandon’ın işlerinde her yerden ayırt edilebilecek spesifik bir estetik var.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig01.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WD9RXG8TS4EM7E6TSK8JYB/01M4WD9RXG8TS4EM7E6TSK8JYB.png",
     "recipes": [
       {
         "name": "Cinematic Blue by Brandon Woelfel",
@@ -1011,7 +1037,7 @@
     "name": "Emilie Hill",
     "position": "Seyahat Fotoğrafçısı",
     "bio": "10 yıllık yaratıcılık deneyimine sahip Avustralyalı bir fotoğrafçı olan Emilie Güney Amerika’nın ücra köylerinden Antarktika’nın vahşi manzaralarına uzanan rüya gibi görüntüleri paylaşıyor. 1,5 milyondan fazla takipçisiyle, önde gelen seyahat ve yaşam stili markaları ile işbirliği yapıyor ve izleyicilerini doğa ve kendileri ile daha derin bir bağlantı aramaya teşvik ediyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig03.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WDAGC0NFM49WPZF632NQ1Q/01M4WDAGC0NFM49WPZF632NQ1Q.png",
     "recipes": [
       {
         "name": "Boho Look by Emilie Hill",
@@ -1029,7 +1055,7 @@
     "name": "LUIZCLAS",
     "position": "Portre Fotoğrafçısı",
     "bio": "Luiz, Brezilyalı bir portre fotoğrafçısı. Kendine özgü samimi renk kullanım tarzı ona sadece Instagram’da yarım milyondan fazla takipçi kazandırdı. Şimdi New York'tan Paris'e, dünyanın dört bir yanında atölyeler düzenliyor.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig04.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WDB7DJ95GZ07N2F859SCHF/01M4WDB7DJ95GZ07N2F859SCHF.png",
     "recipes": [
       {
         "name": "Red Mood by LUIZCLAS",
@@ -1057,7 +1083,7 @@
     "name": "Aparupa Dey",
     "position": "Doğa ve Vahşi Yaşam Fotoğrafçısı",
     "bio": "Aparupa Dey, göz açıp kapayıncaya kadar geçen anların kompozisyonu doğanın gerçek güzelliğini gösteren çok iyi bir bakışa sahip Hint vahşi yaşam fotoğrafçısıdır. Çalışmaları BBC, Animal Planet, Discovery Channel, Nature in Focus ve daha pek çok mecrada yer almıştır.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig05.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WDBZ509FQV86644KQXBQ81/01M4WDBZ509FQV86644KQXBQ81.png",
     "recipes": [
       {
         "name": "Bleach Blue by Aparupa Dey",
@@ -1070,7 +1096,7 @@
     "name": "Danny Gevirtz",
     "position": "Film Yapımcısı ve YouTube İçerik Üreticisi",
     "bio": "Danny Gevirtz, istek uyandıran kısa filmleri ile inşa ettiği çok fazla takipçisi olan Philadelphia’lı bir film yapımcısı. Tek başına çekim yapan gençlerin tutkuları olan projeleri gerçekleştirmeye çalışmalarını savunarak video üreticileri topluluğunda önemli bir figür haline geldi.",
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig06.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WDCNNMJTGERP64E9XZ7E55/01M4WDCNNMJTGERP64E9XZ7E55.png",
     "recipes": [
       {
         "name": "DG Film Look by Danny Gevirtz",
@@ -1083,7 +1109,7 @@
     "name": "Nikon",
     "position": null,
     "bio": null,
-    "avatar": "https://imagingcloud.nikon.com/img/recipe/release/creator_fig00.png",
+    "avatar": "https://front.ir.imagingcloud.nikon.com/public/creator/01M4WDDCTCMR7VMQAWSBNJ9V8R/01M4WDDCTCMR7VMQAWSBNJ9V8R.png",
     "recipes": [
       {
         "name": "Negative Film Yellow 01a",
