@@ -1,7 +1,7 @@
 {
   "bookId": "01HXDGH38PHJ0KZJHF2N7M8VMC",
   "label": "Imaging Recipes",
-  "isNew": true,
+  "isNew": false,
   "recipes": [
     {
       "name": "Mate Film by Choi matae",
@@ -9,7 +9,7 @@
       "cover": "img/ad/ad1de59729d93651703a99e51460a5d7d8ae190f4eb698420281bbb94d6b4289.jpg",
       "detailUrl": "/recipe/release/detail/?id=01M4SD0T78RAGG39JAVXRDR2X0",
       "publicDate": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Mid-Spring by Yinukhi",
@@ -17,7 +17,7 @@
       "cover": "img/ce/ce409aa18b4e935f3d08f90a7c33c1e6c713c766ea657123b01b6a26bd9f30d1.jpg",
       "detailUrl": "/recipe/release/detail/?id=01M4SD0TCQVQWSJE486FR1YC03",
       "publicDate": null,
-      "isNew": true
+      "isNew": false
     },
     {
       "name": "Vintage Touch by Amy Shore",
