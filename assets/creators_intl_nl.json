@@ -1,5 +1,101 @@
 [
   {
+    "name": "Monamin",
+    "position": "Fotograaf",
+    "bio": "De in Tokio geboren fotografe Monamin begon tijdens haar middelbare schooltijd met fotograferen, aangetrokken door de charme van fotografie. Ze werd in 2021 zelfstandig te midden van de COVID-19-pandemie, en haar werk legt natuurlijke, hartverwarmende momenten vast in reis-, lifestyle-, straat- en bloemenfotografie. Monamin is ook een letterkunstenaar, die met haar sfeervolle belettering logo’s maakt voor grote bedrijven.",
+    "avatar": "img/7d/7de3c0f08692567deb3154a36883c3b39f0e1f065837cade072d475aa8deba27.png",
+    "recipes": [
+      {
+        "name": "Mellow Glow by Monamin",
+        "id": "01M79WFR2ADBJQV0AN4NYS3ZPG",
+        "detailUrl": "/recipe/release/detail/?id=01M79WFR2ADBJQV0AN4NYS3ZPG"
+      }
+    ]
+  },
+  {
+    "name": "Lou Jasmine",
+    "position": "Fotograaf en regisseur",
+    "bio": "Lou Jasmine is een in Londen gevestigde fotograaf en regisseur wiens werk is geworteld in vreugde, menselijke verbondenheid en de schoonheid van het dagelijks leven. Ze houdt zich bezig met portretfotografie, commerciële campagnes en documentaireprojecten, en voelt zich aangetrokken door momenten waarop mensen zichzelf op een natuurlijke manier kunnen laten zien. Haar werk heeft haar door het hele Verenigd Koninkrijk en daarbuiten gebracht — van wereldwijde campagnes tot gemeenschapsgerichte projecten, en tot haar klanten behoren onder meer Nando’s, Dr. Martens, Google, The Sunday Times Style en Arsenal FC.\n\nLou deelt haar technische kennis en creatieve intuïtie ook via lezingen en workshops, gedreven door haar passie om anderen te helpen nieuwe vaardigheden te ontwikkelen en creatief zelfvertrouwen op te bouwen. Haar werk is ook tentoongesteld in de National Portrait Gallery als onderdeel van de Taylor Wessing Photographic Portrait Prize.",
+    "avatar": "img/b8/b8adbdd7cd2184bac64d1eb5afa424bac672f556455cb80d608ff41da3a775e4.png",
+    "recipes": [
+      {
+        "name": "La Mer by Lou Jasmine",
+        "id": "01M79WFQR8KCHZFY9P7WCPQDVT",
+        "detailUrl": "/recipe/release/detail/?id=01M79WFQR8KCHZFY9P7WCPQDVT"
+      }
+    ]
+  },
+  {
+    "name": "Hiroshi Kikumoto",
+    "position": "Broodbakker met houtgestookte oven",
+    "bio": "Hiroshi Kikumoto is gevestigd in de prefectuur Yamaguchi en runt Makigama Pan Kikumoto, een bakkerij met houtgestookte oven, na een overstap vanuit een carrière in het bankwezen. Met als leidraad de filosofie “gezonde, evenwichtige dagen tot leven brengen”, maakt Hiroshi brood en zoetigheden op basis van honing. Hij hecht veel waarde aan een manier van werken waarbij werk en dagelijks leven samenkomen: hij maakt op bestelling brood en zoetigheden op basis van honing en stookt de houtgestookte oven slechts een paar keer per maand op.",
+    "avatar": "img/c0/c0b473a253b5aae1c81b8a77feafcb6de1913ae2e4e2fe0b9fbbe421b2fcef4b.png",
+    "recipes": [
+      {
+        "name": "Satoyama by Hiroshi Kikumoto",
+        "id": "01M79WFRECK89JHE7V0HG8G77E",
+        "detailUrl": "/recipe/release/detail/?id=01M79WFRECK89JHE7V0HG8G77E"
+      }
+    ]
+  },
+  {
+    "name": "Rafaelle Lorgeril",
+    "position": "Fotograaf",
+    "bio": "Rafaelle Lorgeril is een fotograaf die werkt tussen droom en werkelijkheid. Via onscherpte, licht en textuur onderzoekt zij emoties, herinneringen en de onzichtbare elementen die in mensen en plaatsen aanwezig zijn.",
+    "avatar": "img/ff/ff1a1e569ffe2062b21845aa6b499f65778253fba1d92949ebe489bac20a1c55.png",
+    "recipes": [
+      {
+        "name": "Blue Hour by Rafaelle",
+        "id": "01M79WFQYBVEB3JFQZEJFPNEQH",
+        "detailUrl": "/recipe/release/detail/?id=01M79WFQYBVEB3JFQZEJFPNEQH"
+      }
+    ]
+  },
+  {
+    "name": "hiromin",
+    "position": "Fotograaf",
+    "bio": "hiromin is gevestigd in Osaka en legt via licht, kleur en sfeer vluchtige momenten vast die een gevoel van verwondering oproepen in het dagelijks leven en tijdens reizen, samen met de wisselende seizoenen. Van tijd doorgebracht met vrienden tot scènes in de stad, ze bewaart gewone momenten als herinneringen om op terug te kijken en te koesteren.",
+    "avatar": "img/93/93d353b56fb8a5fb10d0066db5326363ce52f421441620d28f65710572a4e552.png",
+    "recipes": [
+      {
+        "name": "Memory Reverie by hiromin",
+        "id": "01M79WFR6P7M2PZ9PAM695AJ19",
+        "detailUrl": "/recipe/release/detail/?id=01M79WFR6P7M2PZ9PAM695AJ19"
+      }
+    ]
+  },
+  {
+    "name": "asami",
+    "position": "Fotograaf",
+    "bio": "asami is gevestigd in Fukuoka en deelt voornamelijk foto’s op Instagram. Van het leven met katten tot scènes in de stad, ze legt vluchtige momenten vast die haar raken, waarbij ze nauwgezet let op licht, kleur en de sfeer van het dagelijks leven. Haar werk heeft zich ook uitgebreid naar media-reportages en samenwerkingen met merken.",
+    "avatar": "img/07/072b2c34ac0168b2e1405d4ab5319d58bedb444fc7c3abf324d02128f6543d75.png",
+    "recipes": [
+      {
+        "name": "Yoin by asami",
+        "id": "01M79WFRJE145PXA8571267N8T",
+        "detailUrl": "/recipe/release/detail/?id=01M79WFRJE145PXA8571267N8T"
+      }
+    ]
+  },
+  {
+    "name": "jyota tomonori",
+    "position": "Fotograaf",
+    "bio": "jyota tomonori, een liefhebber van camera's en planten, draagt elke dag een camera bij zich en legt dagelijkse taferelen van zijn vrouw en dochter vast. Na zijn afstuderen aan de universiteit en na als interne trouwfotograaf te hebben gewerkt, werkt hij nu als freelancer – hij heeft tot nu toe voor meer dan 700 stellen foto's gemaakt tijdens sessies vóór de bruiloft en snapshots op trouwlocaties. Hij neemt ook opdrachten aan voor reclame, bedrijfsfoto's, de uitgave van boeken en verkoopt originele voorinstellingen.",
+    "avatar": "img/89/897ec6e317a731cc6f6fa24d1db2509a7a7e0fb260c70b9da874b75fbe74fc34.png",
+    "recipes": [
+      {
+        "name": "Bluegrain by jyota tomonori",
+        "id": "01KHT3D9R71Q9BA4DFM5CMYBAE",
+        "detailUrl": "/recipe/release/detail/?id=01KHT3D9R71Q9BA4DFM5CMYBAE"
+      },
+      {
+        "name": "Pure Pale by jyota tomonori",
+        "id": "01M79WFRABJFCD76WA99YTEGWR",
+        "detailUrl": "/recipe/release/detail/?id=01M79WFRABJFCD76WA99YTEGWR"
+      }
+    ]
+  },
+  {
     "name": "Choi matae",
     "position": "Contentmaker",
     "bio": "Choi matae is een maker die vermakelijke content produceert waarin fotografie op een leuke en boeiende manier wordt gepresenteerd. Vanaf 2016 creëert hij een grote verscheidenheid aan content op sociale media, waarbij hij afwisselend in Korea en Japan werkt. Met een unieke blik kijkt hij recht in de camera terwijl hij zijn content ontwikkelt, altijd ernaar strevend om iedereen verliefd te laten worden op fotografie.",
@@ -66,19 +162,6 @@
         "name": "MOSS by Nagisa Ichikawa",
         "id": "01KHT3D9K5XN8CZM40YVDDPCAF",
         "detailUrl": "/recipe/release/detail/?id=01KHT3D9K5XN8CZM40YVDDPCAF"
-      }
-    ]
-  },
-  {
-    "name": "jyota tomonori",
-    "position": "Fotograaf",
-    "bio": "jyota tomonori, een liefhebber van camera's en planten, draagt elke dag een camera bij zich en legt dagelijkse taferelen van zijn vrouw en dochter vast. Na zijn afstuderen aan de universiteit en na als interne trouwfotograaf te hebben gewerkt, werkt hij nu als freelancer – hij heeft tot nu toe voor meer dan 700 stellen foto's gemaakt tijdens sessies vóór de bruiloft en snapshots op trouwlocaties. Hij neemt ook opdrachten aan voor reclame, bedrijfsfoto's, de uitgave van boeken en verkoopt originele voorinstellingen.",
-    "avatar": "img/89/897ec6e317a731cc6f6fa24d1db2509a7a7e0fb260c70b9da874b75fbe74fc34.png",
-    "recipes": [
-      {
-        "name": "Bluegrain by jyota tomonori",
-        "id": "01KHT3D9R71Q9BA4DFM5CMYBAE",
-        "detailUrl": "/recipe/release/detail/?id=01KHT3D9R71Q9BA4DFM5CMYBAE"
       }
     ]
   },

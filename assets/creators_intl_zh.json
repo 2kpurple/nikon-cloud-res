@@ -1,5 +1,101 @@
 [
   {
+    "name": "Monamin",
+    "position": "摄影师",
+    "bio": "生于东京的摄影师Monamin，高中时迷上摄影，开始拾起了相机。2021年新冠疫情期间，她开启独立创作，定格那些自然、令人怦然心动的瞬间，作品涵盖旅行、生活方式、街头与花卉摄影。同时也是一名字体设计师，使用富有氛围感的手写字体，为多家大型企业设计标识。",
+    "avatar": "img/7d/7de3c0f08692567deb3154a36883c3b39f0e1f065837cade072d475aa8deba27.png",
+    "recipes": [
+      {
+        "name": "Mellow Glow by Monamin",
+        "id": "01M79W1V1NX4P2D2JDSJA0N0RQ",
+        "detailUrl": "/recipe/release/detail/?id=01M79W1V1NX4P2D2JDSJA0N0RQ"
+      }
+    ]
+  },
+  {
+    "name": "Lou Jasmine",
+    "position": "摄影师兼总监",
+    "bio": "Lou Jasmine是一位常驻伦敦的摄影师兼总监，她的作品植根于喜悦、人与人之间的联结，以及日常里蕴藏的细碎美好。她涉足人像摄影、商业广告以及纪实项目，钟情于人们自然呈现真实自我的瞬间。她的创作足迹遍布英国与世界各地，作品涵盖全球级品牌广告到聚焦本土社群的项目；合作客户包括Nando’s、Dr. Martens、Google、The Sunday Times Style以及Arsenal FC。\n\nLou也通过讲座与工作坊分享技术知识与创作直觉，热衷于帮助他人习得新技能并建立创作自信。其作品还曾入选泰勒·韦辛肖像摄影奖的一部分，亮相于英国国家肖像画廊。",
+    "avatar": "img/b8/b8adbdd7cd2184bac64d1eb5afa424bac672f556455cb80d608ff41da3a775e4.png",
+    "recipes": [
+      {
+        "name": "La Mer by Lou Jasmine",
+        "id": "01M79W1TPD8FPC4QKKK07VZ177",
+        "detailUrl": "/recipe/release/detail/?id=01M79W1TPD8FPC4QKKK07VZ177"
+      }
+    ]
+  },
+  {
+    "name": "Hiroshi Kikumoto",
+    "position": "柴窑面包师",
+    "bio": "Hiroshi Kikumoto定居山口县，曾任职银行，转行经营一家名为“柴窑面包菊本”的柴窑面包店。他秉持“将健康融入生活”的理念，制作面包与蜂蜜甜点。他推崇工作与日常生活融为一体的工作方式：按订单制作面包与蜂蜜甜点，柴窑每月仅开炉数次。",
+    "avatar": "img/c0/c0b473a253b5aae1c81b8a77feafcb6de1913ae2e4e2fe0b9fbbe421b2fcef4b.png",
+    "recipes": [
+      {
+        "name": "Satoyama by Hiroshi Kikumoto",
+        "id": "01M79W1VE4ZG35WZ5HXJBD4835",
+        "detailUrl": "/recipe/release/detail/?id=01M79W1VE4ZG35WZ5HXJBD4835"
+      }
+    ]
+  },
+  {
+    "name": "Rafaelle Lorgeril",
+    "position": "摄影师",
+    "bio": "Rafaelle Lorgeril是一位立足梦境与现实交界的摄影师。她运用模糊、光线与质感，探寻情绪、记忆，以及蕴藏在人与场景里的无形元素。",
+    "avatar": "img/ff/ff1a1e569ffe2062b21845aa6b499f65778253fba1d92949ebe489bac20a1c55.png",
+    "recipes": [
+      {
+        "name": "Blue Hour by Rafaelle",
+        "id": "01M79W1TWZJQ5YQNM7AB23Z0PY",
+        "detailUrl": "/recipe/release/detail/?id=01M79W1TWZJQ5YQNM7AB23Z0PY"
+      }
+    ]
+  },
+  {
+    "name": "hiromin",
+    "position": "摄影师",
+    "bio": "常驻大阪的hiromin，利用光线、色彩与氛围，定格日常与旅途中转瞬即逝的动人瞬间，记录四季更迭。无论是与友人相伴的时光，还是城市街景，这些平凡瞬间都被她留存，化作值得回味珍藏的记忆。",
+    "avatar": "img/93/93d353b56fb8a5fb10d0066db5326363ce52f421441620d28f65710572a4e552.png",
+    "recipes": [
+      {
+        "name": "Memory Reverie by hiromin",
+        "id": "01M79W1V5PJRTDJXB8N2GZ3CK1",
+        "detailUrl": "/recipe/release/detail/?id=01M79W1V5PJRTDJXB8N2GZ3CK1"
+      }
+    ]
+  },
+  {
+    "name": "asami",
+    "position": "摄影师",
+    "bio": "asami常驻福冈，主要在Instagram分享摄影作品。从与猫咪相伴的日常到城市街景，她捕捉那些触动内心的转瞬即逝的瞬间，密切关注平日生活里的光线、色彩与氛围。同时其作品也登上了多家媒体，并开展各类品牌合作。",
+    "avatar": "img/07/072b2c34ac0168b2e1405d4ab5319d58bedb444fc7c3abf324d02128f6543d75.png",
+    "recipes": [
+      {
+        "name": "Yoin by asami",
+        "id": "01M79W1VJ4Z0MJEVPZH7HV80S1",
+        "detailUrl": "/recipe/release/detail/?id=01M79W1VJ4Z0MJEVPZH7HV80S1"
+      }
+    ]
+  },
+  {
+    "name": "jyota tomonori",
+    "position": "摄影师",
+    "bio": "jyota tomonori钟爱照相机和植物，每天都随身携带照相机，抓拍妻子和女儿的日常生活场景。大学毕业后，曾担任驻店婚礼摄影师，现在已转为自由职业者——至今已为超过700对新人拍摄婚纱照以及婚礼现场的照片。他还承接广告拍摄、企业照片拍摄以及书籍出版业务，同时出售原创预设。",
+    "avatar": "img/89/897ec6e317a731cc6f6fa24d1db2509a7a7e0fb260c70b9da874b75fbe74fc34.png",
+    "recipes": [
+      {
+        "name": "Bluegrain by jyota tomonori",
+        "id": "01KHT38TKSZDXJD9R5P946Q67K",
+        "detailUrl": "/recipe/release/detail/?id=01KHT38TKSZDXJD9R5P946Q67K"
+      },
+      {
+        "name": "Pure Pale by jyota tomonori",
+        "id": "01M79W1VA2GPZ7C9HWATWFTKNS",
+        "detailUrl": "/recipe/release/detail/?id=01M79W1VA2GPZ7C9HWATWFTKNS"
+      }
+    ]
+  },
+  {
     "name": "Choi matae",
     "position": "内容创作者",
     "bio": "Choi matae是一位内容创作者，以生动有趣、令人心动的方式分享摄影作品，打造趣味内容。自2016年起，他往返于韩国与日本，在社交媒体上创作各种丰富内容。其视角独特，创作内容时直视镜头，始终致力于让人人都爱上摄影。",
@@ -66,19 +162,6 @@
         "name": "MOSS by Nagisa Ichikawa",
         "id": "01KHT38TCEXKXBA3TFE9TEEC2P",
         "detailUrl": "/recipe/release/detail/?id=01KHT38TCEXKXBA3TFE9TEEC2P"
-      }
-    ]
-  },
-  {
-    "name": "jyota tomonori",
-    "position": "摄影师",
-    "bio": "jyota tomonori钟爱照相机和植物，每天都随身携带照相机，抓拍妻子和女儿的日常生活场景。大学毕业后，曾担任驻店婚礼摄影师，现在已转为自由职业者——至今已为超过700对新人拍摄婚纱照以及婚礼现场的照片。他还承接广告拍摄、企业照片拍摄以及书籍出版业务，同时出售原创预设。",
-    "avatar": "img/89/897ec6e317a731cc6f6fa24d1db2509a7a7e0fb260c70b9da874b75fbe74fc34.png",
-    "recipes": [
-      {
-        "name": "Bluegrain by jyota tomonori",
-        "id": "01KHT38TKSZDXJD9R5P946Q67K",
-        "detailUrl": "/recipe/release/detail/?id=01KHT38TKSZDXJD9R5P946Q67K"
       }
     ]
   },

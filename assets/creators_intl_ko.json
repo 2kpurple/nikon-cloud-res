@@ -1,5 +1,101 @@
 [
   {
+    "name": "Monamin",
+    "position": "사진작가",
+    "bio": "도쿄 출신의 사진작가 Monamin은 고등학교 시절 사진에 매료되어 처음 카메라를 들었습니다. 그녀는 COVID-19 팬데믹이 한창이던 2021년에 독립했으며, 여행, 라이프스타일, 거리, 꽃 사진 등 다양한 분야에서 자연스럽고 마음을 사로잡는 순간들을 포착하는 작품 활동을 하고 있습니다. Monamin은 레터링 아티스트로서, 분위기 있는 독특한 레터링으로 주요 기업들의 로고를 제작하기도 합니다.",
+    "avatar": "img/7d/7de3c0f08692567deb3154a36883c3b39f0e1f065837cade072d475aa8deba27.png",
+    "recipes": [
+      {
+        "name": "Mellow Glow by Monamin",
+        "id": "01M79VNJEV0KSB88V04YRHMXAX",
+        "detailUrl": "/recipe/release/detail/?id=01M79VNJEV0KSB88V04YRHMXAX"
+      }
+    ]
+  },
+  {
+    "name": "Lou Jasmine",
+    "position": "사진작가 및 감독",
+    "bio": "Lou Jasmine은 런던을 기반으로 활동하는 사진작가이자 감독으로, 그녀의 작품은 기쁨, 인간관계, 그리고 일상의 아름다움에 뿌리를 두고 있습니다. 인물 사진, 광고 캠페인, 다큐멘터리 프로젝트 등 다양한 분야에서 활동하는 그녀는 사람들이 자연스럽게 본모습을 드러내는 순간에 매력을 느낍니다. 그녀는 영국 전역과 해외에서 많은 활동을 했습니다. 글로벌 캠페인부터 지역 사회 중심 프로젝트에 이르기까지 폭넓은 경험을 보유하고 있으며, 고객으로는 Nando’s, Dr. Martens, Google, The Sunday Times Style, Arsenal FC 등이 있습니다.\n\n또한 Lou는 다른 사람들이 새로운 기술을 배우고 창의적인 자신감을 키울 수 있도록 강연과 워크숍을 통해 자신의 기술적 지식과 창의적인 직관을 나누고 있습니다. 그녀의 작품은 Taylor Wessing Photographic Portrait Prize의 일환으로 National Portrait Gallery에 전시되기도 했습니다.",
+    "avatar": "img/b8/b8adbdd7cd2184bac64d1eb5afa424bac672f556455cb80d608ff41da3a775e4.png",
+    "recipes": [
+      {
+        "name": "La Mer by Lou Jasmine",
+        "id": "01M79VNJ2RQETC2DPZYF4YCRC0",
+        "detailUrl": "/recipe/release/detail/?id=01M79VNJ2RQETC2DPZYF4YCRC0"
+      }
+    ]
+  },
+  {
+    "name": "Hiroshi Kikumoto",
+    "position": "장작 화덕 제빵사",
+    "bio": "야마구치현에 거주하는 Hiroshi Kikumoto는 은행업계에서 경력을 쌓은 후 장작 화덕 빵집인 Makigama Pan Kikumoto를 운영하고 있습니다. Hiroshi는 “건강하고 행복한 나날을 만들어간다”는 철학을 바탕으로 빵과 꿀을 베이스로 한 디저트를 만듭니다. 그는 일과 일상을 조화롭게 하는 작업 방식을 중시하며, 주문 제작 방식으로 빵과 꿀을 이용한 디저트를 만들고, 장작 화덕은 한 달에 몇 번만 가동합니다.",
+    "avatar": "img/c0/c0b473a253b5aae1c81b8a77feafcb6de1913ae2e4e2fe0b9fbbe421b2fcef4b.png",
+    "recipes": [
+      {
+        "name": "Satoyama by Hiroshi Kikumoto",
+        "id": "01M79VNJWARDTSFR93ER0G10K9",
+        "detailUrl": "/recipe/release/detail/?id=01M79VNJWARDTSFR93ER0G10K9"
+      }
+    ]
+  },
+  {
+    "name": "Rafaelle Lorgeril",
+    "position": "사진작가",
+    "bio": "Rafaelle Lorgeril은 꿈과 현실 사이를 넘나들며 작업하는 사진작가입니다. 그녀는 흔들림과 빛, 질감을 통해 감정, 기억, 그리고 사람과 장소에 존재하는 보이지 않는 요소들을 탐구합니다.",
+    "avatar": "img/ff/ff1a1e569ffe2062b21845aa6b499f65778253fba1d92949ebe489bac20a1c55.png",
+    "recipes": [
+      {
+        "name": "Blue Hour by Rafaelle",
+        "id": "01M79VNJ8W3DVAVZA0NA9J2B3V",
+        "detailUrl": "/recipe/release/detail/?id=01M79VNJ8W3DVAVZA0NA9J2B3V"
+      }
+    ]
+  },
+  {
+    "name": "hiromin",
+    "position": "사진작가",
+    "bio": "오사카를 기반으로 활동하는 hiromin은 빛, 색채, 분위기를 통해 일상과 여행 속에서 경이로움으로 이어지는 찰나의 순간들, 그리고 변화하는 계절을 포착합니다. 친구들과 함께 보낸 시간부터 도시 곳곳의 풍경까지, 그녀는 나중에 되돌아볼 수 있도록 평범한 순간들을 추억으로 소중히 간직합니다.",
+    "avatar": "img/93/93d353b56fb8a5fb10d0066db5326363ce52f421441620d28f65710572a4e552.png",
+    "recipes": [
+      {
+        "name": "Memory Reverie by hiromin",
+        "id": "01M79VNJKEY0VA95GMDTRZFNA3",
+        "detailUrl": "/recipe/release/detail/?id=01M79VNJKEY0VA95GMDTRZFNA3"
+      }
+    ]
+  },
+  {
+    "name": "asami",
+    "position": "사진작가",
+    "bio": "후쿠오카에 거주하는 asami는 주로 Instagram에 사진을 공유합니다. 고양이와 노는 일상에서부터 도시 풍경까지, 그녀는 빛, 색채, 그리고 일상의 분위기에 세심한 주의를 기울여 자신을 감동시키는 찰나의 순간들을 포착합니다. 그녀의 활동 영역은 미디어 특집 및 브랜드와의 협업으로까지 확장되었습니다.",
+    "avatar": "img/07/072b2c34ac0168b2e1405d4ab5319d58bedb444fc7c3abf324d02128f6543d75.png",
+    "recipes": [
+      {
+        "name": "Yoin by asami",
+        "id": "01M79VNK11F6RHF576461RWK6P",
+        "detailUrl": "/recipe/release/detail/?id=01M79VNK11F6RHF576461RWK6P"
+      }
+    ]
+  },
+  {
+    "name": "jyota tomonori",
+    "position": "사진작가",
+    "bio": "카메라와 식물을 사랑하는 jyota tomonori는 매일 카메라를 들고 다니며 아내와 딸의 일상을 촬영합니다. 대학을 졸업하고 사내 결혼 사진작가로 일한 후, 그는 현재 프리랜서로 일하고 있습니다. 지금까지 700쌍 이상의 커플을 위해 결혼 전 세션과 결혼식장에서 스냅 사진을 촬영하고 있습니다. 그는 광고, 기업 사진 촬영, 도서 출판도 맡고 있으며, 오리지널 프리셋도 판매합니다.",
+    "avatar": "img/89/897ec6e317a731cc6f6fa24d1db2509a7a7e0fb260c70b9da874b75fbe74fc34.png",
+    "recipes": [
+      {
+        "name": "Bluegrain by jyota tomonori",
+        "id": "01KHT33F9ASW4V2KW36FQNYTNP",
+        "detailUrl": "/recipe/release/detail/?id=01KHT33F9ASW4V2KW36FQNYTNP"
+      },
+      {
+        "name": "Pure Pale by jyota tomonori",
+        "id": "01M79VNJQGD16E7YM079GP2K9H",
+        "detailUrl": "/recipe/release/detail/?id=01M79VNJQGD16E7YM079GP2K9H"
+      }
+    ]
+  },
+  {
     "name": "Choi matae",
     "position": "콘텐츠 크리에이터",
     "bio": "사진을 재밌는 방식으로 풀어나가는 예능 형태의 콘텐츠를 만드는 크리에이터입니다. 2016년부터 SNS를 통해 다양한 콘텐츠를 만들어 왔으며, 한국과 일본을 기반으로 활동합니다.\n특별한 시선으로 카메라를 바라보고 콘텐츠를 개발하며, 모든 사람들이 카메라를 좋아할 수 있도록 노력하고 있습니다.",
@@ -66,19 +162,6 @@
         "name": "MOSS by Nagisa Ichikawa",
         "id": "01KHT33F29JD8BD35HN9G3TR6X",
         "detailUrl": "/recipe/release/detail/?id=01KHT33F29JD8BD35HN9G3TR6X"
-      }
-    ]
-  },
-  {
-    "name": "jyota tomonori",
-    "position": "사진작가",
-    "bio": "카메라와 식물을 사랑하는 jyota tomonori는 매일 카메라를 들고 다니며 아내와 딸의 일상을 촬영합니다. 대학을 졸업하고 사내 결혼 사진작가로 일한 후, 그는 현재 프리랜서로 일하고 있습니다. 지금까지 700쌍 이상의 커플을 위해 결혼 전 세션과 결혼식장에서 스냅 사진을 촬영하고 있습니다. 그는 광고, 기업 사진 촬영, 도서 출판도 맡고 있으며, 오리지널 프리셋도 판매합니다.",
-    "avatar": "img/89/897ec6e317a731cc6f6fa24d1db2509a7a7e0fb260c70b9da874b75fbe74fc34.png",
-    "recipes": [
-      {
-        "name": "Bluegrain by jyota tomonori",
-        "id": "01KHT33F9ASW4V2KW36FQNYTNP",
-        "detailUrl": "/recipe/release/detail/?id=01KHT33F9ASW4V2KW36FQNYTNP"
       }
     ]
   },

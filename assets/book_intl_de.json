@@ -1,8 +1,64 @@
 {
   "bookId": "01HXDJXYTKWTVDV6D8ZBWTMFXQ",
   "label": "Bildbearbeitungs-Rezepte",
-  "isNew": false,
+  "isNew": true,
   "recipes": [
+    {
+      "name": "Mellow Glow by Monamin",
+      "id": "01M79SYSRTJBGW02SN9Y2JFYYC",
+      "cover": "img/da/da404e56ade75c88100a46e8d005cbecda08ce9b5f6e87551a1322137da451ef.jpg",
+      "detailUrl": "/recipe/release/detail/?id=01M79SYSRTJBGW02SN9Y2JFYYC",
+      "publicDate": null,
+      "isNew": true
+    },
+    {
+      "name": "La Mer by Lou Jasmine",
+      "id": "01M79SYSD7YNBBYPEGQPDASRCF",
+      "cover": "img/80/803926d92ad35ec35d0b98f7e950ed4bc7b19d56139d9e7761dc991878987c3a.jpg",
+      "detailUrl": "/recipe/release/detail/?id=01M79SYSD7YNBBYPEGQPDASRCF",
+      "publicDate": null,
+      "isNew": true
+    },
+    {
+      "name": "Blue Hour by Rafaelle",
+      "id": "01M79SYSKNC0XQ3MN6SVN9C72K",
+      "cover": "img/a1/a1a6f7f7e9a5632a232646a8690c5473df82238903e48a19bcbd3ba1403be6a5.jpg",
+      "detailUrl": "/recipe/release/detail/?id=01M79SYSKNC0XQ3MN6SVN9C72K",
+      "publicDate": null,
+      "isNew": true
+    },
+    {
+      "name": "Pure Pale by jyota tomonori",
+      "id": "01M79SYT18DWYP7YWSNFT6AJ8Q",
+      "cover": "img/32/32749bc8cf595685145cef1cdc0c123f166bf075deeab7855b5416182b26909d.jpg",
+      "detailUrl": "/recipe/release/detail/?id=01M79SYT18DWYP7YWSNFT6AJ8Q",
+      "publicDate": null,
+      "isNew": true
+    },
+    {
+      "name": "Memory Reverie by hiromin",
+      "id": "01M79SYSX4CMG0EPP104X7V82N",
+      "cover": "img/5d/5d2c9a1547516cfbe54f9b964390c3f527497d8d5c2c9bd2bb3297c05d9b9fdc.jpg",
+      "detailUrl": "/recipe/release/detail/?id=01M79SYSX4CMG0EPP104X7V82N",
+      "publicDate": null,
+      "isNew": true
+    },
+    {
+      "name": "Satoyama by Hiroshi Kikumoto",
+      "id": "01M79SYT5F3WDQQXXAKHYBHYQS",
+      "cover": "img/bf/bfd84b20ce0c22f1ac1b367dbe7b13ff8ba2bcae0e3ef38d6237203b0e1a729f.jpg",
+      "detailUrl": "/recipe/release/detail/?id=01M79SYT5F3WDQQXXAKHYBHYQS",
+      "publicDate": null,
+      "isNew": true
+    },
+    {
+      "name": "Yoin by asami",
+      "id": "01M79SYT9FTM5Z5DE6G17WSGJ1",
+      "cover": "img/2e/2ebfff3db062ce9c5121fe91d21aee5b3ae7fde141f45f167ba7a4ca3067c892.jpg",
+      "detailUrl": "/recipe/release/detail/?id=01M79SYT9FTM5Z5DE6G17WSGJ1",
+      "publicDate": null,
+      "isNew": true
+    },
     {
       "name": "Mate Film by Choi matae",
       "id": "01M4SD5NSCB050GM6N0QWEM4MN",

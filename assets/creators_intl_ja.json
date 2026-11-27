@@ -1,5 +1,101 @@
 [
   {
+    "name": "もなみん",
+    "position": "写真家",
+    "bio": "東京都出身。高校時代に写真の魅力に惹かれてカメラを始め、コロナ禍を機に2021年に独立。\n「日々に転がるときめく瞬間」をテーマにナチュラルなテイストで、お花や暮らし、街スナップ、旅写真など幅広く撮影する。味のある手書き文字で大手企業ロゴ制作を手がけるなど、文字作家としても活動中。",
+    "avatar": "img/7d/7de3c0f08692567deb3154a36883c3b39f0e1f065837cade072d475aa8deba27.png",
+    "recipes": [
+      {
+        "name": "Mellow Glow by Monamin",
+        "id": "01M79RXF0ZVH8P4527JAJZ4CJK",
+        "detailUrl": "/recipe/release/detail/?id=01M79RXF0ZVH8P4527JAJZ4CJK"
+      }
+    ]
+  },
+  {
+    "name": "Lou Jasmine",
+    "position": "写真家兼ディレクター",
+    "bio": "ロンドンを拠点に活動する写真家兼ディレクターで、その作品は喜びの感情や人とのつながり、日常の美しさに根ざしている。ポートレート撮影、広告キャンペーン、そしてドキュメンタリー制作に関わりながら、人間が自然なかたちで自己開示する瞬間に魅了されている。その活動はイギリス国内にとどまらず世界へと広がり、国際的なキャンペーンから地域密着型のプロジェクトまで多岐にわたり、顧客にはNando’s、Dr. Martens、Google、The Sunday Times Style、Arsenal FCなどが名を連ねている。\n\nまた、講演やワークショップを通して自身の技術的な知識や創造的な感性を共有し、他者が新たな技術や創造への自信を深める手助けをすることに情熱を注いでいる。彼女の作品は、テイラー・ウェッシング写真ポートレート賞の一環として、ナショナル・ポートレート・ギャラリーでも展示された。",
+    "avatar": "img/b8/b8adbdd7cd2184bac64d1eb5afa424bac672f556455cb80d608ff41da3a775e4.png",
+    "recipes": [
+      {
+        "name": "La Mer by Lou Jasmine",
+        "id": "01M79RXENXRA9HE39HHYGQ6PDQ",
+        "detailUrl": "/recipe/release/detail/?id=01M79RXENXRA9HE39HHYGQ6PDQ"
+      }
+    ]
+  },
+  {
+    "name": "菊本拓志",
+    "position": "薪窯パン職人 / クリエイター",
+    "bio": "山口県在住。銀行員から転身し、薪窯で焼くパン屋「薪窯パン菊本」を営む。「健やかな毎日をお届けしたい」を軸に、御養い（パン）と蜜菓子を製作。受注製造・月数回のみの窯焚きという、暮らしと仕事を重ねるつくり方を大切にしている。",
+    "avatar": "img/c0/c0b473a253b5aae1c81b8a77feafcb6de1913ae2e4e2fe0b9fbbe421b2fcef4b.png",
+    "recipes": [
+      {
+        "name": "Satoyama by Hiroshi Kikumoto",
+        "id": "01M79RXFE3CZ96W35D1SYN8PPK",
+        "detailUrl": "/recipe/release/detail/?id=01M79RXFE3CZ96W35D1SYN8PPK"
+      }
+    ]
+  },
+  {
+    "name": "Rafaelle Lorgeril",
+    "position": "写真家",
+    "bio": "現実と空想のはざまで活動する写真家。ゆらぎや、光、質感を通して、感情や記憶、そして人や場所に宿る目に見えない要素を表現する。",
+    "avatar": "img/ff/ff1a1e569ffe2062b21845aa6b499f65778253fba1d92949ebe489bac20a1c55.png",
+    "recipes": [
+      {
+        "name": "Blue Hour by Rafaelle",
+        "id": "01M79RXEVQ1Y79RYV6G5PK1SKE",
+        "detailUrl": "/recipe/release/detail/?id=01M79RXEVQ1Y79RYV6G5PK1SKE"
+      }
+    ]
+  },
+  {
+    "name": "hiromin",
+    "position": "フォトグラファー",
+    "bio": "大阪を拠点に活動。日常や旅の中で心ときめく瞬間や、移ろう季節を、光や色、空気感とともに切り取る。友人との時間や街の風景など、何気ない一瞬を、いつか大切な記憶として思い出せるように残している。",
+    "avatar": "img/93/93d353b56fb8a5fb10d0066db5326363ce52f421441620d28f65710572a4e552.png",
+    "recipes": [
+      {
+        "name": "Memory Reverie by hiromin",
+        "id": "01M79RXF5SV2SJ7ZJ7EKQF8ZZX",
+        "detailUrl": "/recipe/release/detail/?id=01M79RXF5SV2SJ7ZJ7EKQF8ZZX"
+      }
+    ]
+  },
+  {
+    "name": "asami",
+    "position": "写真家",
+    "bio": "福岡を拠点として、Instagramを中心に写真を発信。猫との暮らしや街の風景など、何気ない日常の中で光や色、その場の空気感を大切にしながら、ふと心が動いた瞬間を写真に残す。メディア掲載や企業とのタイアップなどにも活動の場を広げている。",
+    "avatar": "img/07/072b2c34ac0168b2e1405d4ab5319d58bedb444fc7c3abf324d02128f6543d75.png",
+    "recipes": [
+      {
+        "name": "Yoin by asami",
+        "id": "01M79RXFJ0J7Q8VYG69N2KV3WE",
+        "detailUrl": "/recipe/release/detail/?id=01M79RXFJ0J7Q8VYG69N2KV3WE"
+      }
+    ]
+  },
+  {
+    "name": "jyota tomonori",
+    "position": "写真家",
+    "bio": "カメラと植物をこよなく愛し、365日カメラを持ち妻と娘の日常を写真に収めている。大学卒業後、結婚式場での専属フォトグラファーを経て、現在はフリーランスとして活動中。ウエディングの前撮りや式場スナップを始め、過去700組以上を撮影。その他、広告撮影や企業案件、本の出版、オリジナルプリセットの販売なども行っている。",
+    "avatar": "img/89/897ec6e317a731cc6f6fa24d1db2509a7a7e0fb260c70b9da874b75fbe74fc34.png",
+    "recipes": [
+      {
+        "name": "Bluegrain by jyota tomonori",
+        "id": "01KHT1A0WPVAN17J69ARS6QZDK",
+        "detailUrl": "/recipe/release/detail/?id=01KHT1A0WPVAN17J69ARS6QZDK"
+      },
+      {
+        "name": "Pure Pale by jyota tomonori",
+        "id": "01M79RXFA8Q0FE6T4FAYP0H768",
+        "detailUrl": "/recipe/release/detail/?id=01M79RXFA8Q0FE6T4FAYP0H768"
+      }
+    ]
+  },
+  {
     "name": "Choi matae",
     "position": "コンテンツクリエイター",
     "bio": "写真の魅力を、楽しくワクワクするような切り口で紹介するクリエーター。制作されるコンテンツはエンターテインメント性に富む。2016年から韓国と日本を行き来しながら、SNSで幅広いコンテンツを発信している。独自の視点でカメラをまっすぐ見つめながら魅力を伝えるコンテンツを発信し、より多くの人に写真を好きになってもらうことを目指している。",
@@ -66,19 +162,6 @@
         "name": "MOSS by Nagisa Ichikawa",
         "id": "01KHT1A0NJWA1P1ZE544KYZNZD",
         "detailUrl": "/recipe/release/detail/?id=01KHT1A0NJWA1P1ZE544KYZNZD"
-      }
-    ]
-  },
-  {
-    "name": "jyota tomonori",
-    "position": "写真家",
-    "bio": "カメラと植物をこよなく愛し、365日カメラを持ち妻と娘の日常を写真に収めている。大学卒業後、結婚式場での専属フォトグラファーを経て、現在はフリーランスとして活動中。ウエディングの前撮りや式場スナップを始め、過去700組以上を撮影。その他、広告撮影や企業案件、本の出版、オリジナルプリセットの販売なども行っている。",
-    "avatar": "img/89/897ec6e317a731cc6f6fa24d1db2509a7a7e0fb260c70b9da874b75fbe74fc34.png",
-    "recipes": [
-      {
-        "name": "Bluegrain by jyota tomonori",
-        "id": "01KHT1A0WPVAN17J69ARS6QZDK",
-        "detailUrl": "/recipe/release/detail/?id=01KHT1A0WPVAN17J69ARS6QZDK"
       }
     ]
   },

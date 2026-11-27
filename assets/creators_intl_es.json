@@ -1,5 +1,101 @@
 [
   {
+    "name": "Monamin",
+    "position": "Fotógrafa",
+    "bio": "La fotógrafa nacida en Tokio Monamin cogió una cámara por primera vez en el instituto, atraída por los encantos de la fotografía. Se independizó en 2021 en plena pandemia de COVID-19, y su trabajo captura momentos naturales y conmovedores en la fotografía de viajes, estilo de vida, callejera y de flores. Monamin también es artista de rotulación y crea logotipos para grandes empresas con sus letras llenas de atmósfera.",
+    "avatar": "img/7d/7de3c0f08692567deb3154a36883c3b39f0e1f065837cade072d475aa8deba27.png",
+    "recipes": [
+      {
+        "name": "Mellow Glow by Monamin",
+        "id": "01M79V8TZBSSEDWD52JESDJJ2K",
+        "detailUrl": "/recipe/release/detail/?id=01M79V8TZBSSEDWD52JESDJJ2K"
+      }
+    ]
+  },
+  {
+    "name": "Lou Jasmine",
+    "position": "Fotógrafa y Directora",
+    "bio": "Lou Jasmine es una fotógrafa y directora afincada en Londres cuyo trabajo se basa en la alegría, la conexión humana y la belleza de la vida cotidiana. Moviéndose entre el retrato, las campañas comerciales y los proyectos documentales, se siente atraída por los momentos que permiten a las personas mostrarse tal como son de forma natural. Su trabajo la ha llevado por todo el Reino Unido y a nivel internacional: desde campañas globales hasta proyectos centrados en la comunidad, y su lista de clientes incluye a Nando’s, Dr. Martens, Google, The Sunday Times Style y Arsenal FC.\n\nLou también comparte sus conocimientos técnicos e intuición creativa a través de charlas y talleres, impulsada por la pasión de ayudar a los demás a desarrollar nuevas habilidades y confianza creativa. Su trabajo también se ha expuesto en la National Portrait Gallery como parte del Taylor Wessing Photographic Portrait Prize.",
+    "avatar": "img/b8/b8adbdd7cd2184bac64d1eb5afa424bac672f556455cb80d608ff41da3a775e4.png",
+    "recipes": [
+      {
+        "name": "La Mer by Lou Jasmine",
+        "id": "01M79V8TK0A0HYV3ST143EWDRA",
+        "detailUrl": "/recipe/release/detail/?id=01M79V8TK0A0HYV3ST143EWDRA"
+      }
+    ]
+  },
+  {
+    "name": "Hiroshi Kikumoto",
+    "position": "Panadero de horno de leña",
+    "bio": "Establecido en la prefectura de Yamaguchi, Hiroshi Kikumoto dirige Makigama Pan Kikumoto, una panadería con horno de leña, tras dar un giro a su carrera en el sector bancario. Guiado por la filosofía de “dar vida a días saludables y sanos”, Hiroshi elabora pan y dulces a base de miel. Valora una forma de trabajar que une el trabajo y la vida cotidiana, elaborando pan y dulces a base de miel por encargo y encendiendo el horno de leña solo unas cuantas veces al mes.",
+    "avatar": "img/c0/c0b473a253b5aae1c81b8a77feafcb6de1913ae2e4e2fe0b9fbbe421b2fcef4b.png",
+    "recipes": [
+      {
+        "name": "Satoyama by Hiroshi Kikumoto",
+        "id": "01M79V8VBA1NSVPT85EEWMXQK0",
+        "detailUrl": "/recipe/release/detail/?id=01M79V8VBA1NSVPT85EEWMXQK0"
+      }
+    ]
+  },
+  {
+    "name": "Rafaelle Lorgeril",
+    "position": "Fotógrafa",
+    "bio": "Rafaelle Lorgeril es una fotógrafa que trabaja entre el sueño y la realidad. A través del desenfoque, la luz y la textura, explora las emociones, la memoria y los elementos invisibles que habitan en las personas y los lugares.",
+    "avatar": "img/ff/ff1a1e569ffe2062b21845aa6b499f65778253fba1d92949ebe489bac20a1c55.png",
+    "recipes": [
+      {
+        "name": "Blue Hour by Rafaelle",
+        "id": "01M79V8TSFZB2Y4SAA4X5BWHVB",
+        "detailUrl": "/recipe/release/detail/?id=01M79V8TSFZB2Y4SAA4X5BWHVB"
+      }
+    ]
+  },
+  {
+    "name": "hiromin",
+    "position": "Fotógrafa",
+    "bio": "Establecida en Osaka, hiromin captura momentos efímeros que despiertan una sensación de asombro en la vida cotidiana y los viajes, junto con el cambio de estaciones, a través de la luz, el color y la atmósfera. Desde los momentos compartidos con amigos hasta escenas por la ciudad, conserva los momentos ordinarios como recuerdos para rememorar y atesorar.",
+    "avatar": "img/93/93d353b56fb8a5fb10d0066db5326363ce52f421441620d28f65710572a4e552.png",
+    "recipes": [
+      {
+        "name": "Memory Reverie by hiromin",
+        "id": "01M79V8V34QGQGMGZH8DG98H4H",
+        "detailUrl": "/recipe/release/detail/?id=01M79V8V34QGQGMGZH8DG98H4H"
+      }
+    ]
+  },
+  {
+    "name": "asami",
+    "position": "Fotógrafa",
+    "bio": "Establecida en Fukuoka, asami comparte fotografías principalmente en Instagram. Desde la vida con gatos hasta escenas por la ciudad, captura momentos efímeros que la conmueven, prestando especial atención a la luz, el color y la atmósfera de la vida cotidiana. Su trabajo también se ha ampliado a publicaciones en medios de comunicación y colaboraciones con marcas.",
+    "avatar": "img/07/072b2c34ac0168b2e1405d4ab5319d58bedb444fc7c3abf324d02128f6543d75.png",
+    "recipes": [
+      {
+        "name": "Yoin by asami",
+        "id": "01M79V8VF22G50SN8KEKC2FVSC",
+        "detailUrl": "/recipe/release/detail/?id=01M79V8VF22G50SN8KEKC2FVSC"
+      }
+    ]
+  },
+  {
+    "name": "jyota tomonori",
+    "position": "Fotógrafo",
+    "bio": "Amante de las cámaras y las plantas, jyota tomonori lleva consigo una cámara todos los días, capturando escenas cotidianas de su esposa e hija. Después de graduarse en la universidad y trabajar como fotógrafo de bodas interno, ahora trabaja como autónomo capturando hasta la fecha fotos para más de 700 parejas en sesiones previas a la boda y en recepciones de bodas. También trabaja en publicidad, fotos corporativas, publicación de libros y vende preajustes originales.",
+    "avatar": "img/89/897ec6e317a731cc6f6fa24d1db2509a7a7e0fb260c70b9da874b75fbe74fc34.png",
+    "recipes": [
+      {
+        "name": "Bluegrain by jyota tomonori",
+        "id": "01KHT2TWJRWN1HW2114GYBB3XD",
+        "detailUrl": "/recipe/release/detail/?id=01KHT2TWJRWN1HW2114GYBB3XD"
+      },
+      {
+        "name": "Pure Pale by jyota tomonori",
+        "id": "01M79V8V7D239BXQCRYD8TB1QN",
+        "detailUrl": "/recipe/release/detail/?id=01M79V8V7D239BXQCRYD8TB1QN"
+      }
+    ]
+  },
+  {
     "name": "Choi matae",
     "position": "Creador de contenido",
     "bio": "Choi matae es un creador que produce contenido entretenido que muestra la fotografía de formas divertidas y emocionantes. Desde 2016, ha estado creando una gran variedad de contenido en redes sociales, trabajando entre Corea y Japón. Con una perspectiva única, mira directamente a la cámara mientras desarrolla su contenido, esforzándose siempre por hacer que todo el mundo se enamore de la fotografía.",
@@ -66,19 +162,6 @@
         "name": "MOSS by Nagisa Ichikawa",
         "id": "01KHT2TWDSYVNYFN4RKZD3FCFZ",
         "detailUrl": "/recipe/release/detail/?id=01KHT2TWDSYVNYFN4RKZD3FCFZ"
-      }
-    ]
-  },
-  {
-    "name": "jyota tomonori",
-    "position": "Fotógrafo",
-    "bio": "Amante de las cámaras y las plantas, jyota tomonori lleva consigo una cámara todos los días, capturando escenas cotidianas de su esposa e hija. Después de graduarse en la universidad y trabajar como fotógrafo de bodas interno, ahora trabaja como autónomo capturando hasta la fecha fotos para más de 700 parejas en sesiones previas a la boda y en recepciones de bodas. También trabaja en publicidad, fotos corporativas, publicación de libros y vende preajustes originales.",
-    "avatar": "img/89/897ec6e317a731cc6f6fa24d1db2509a7a7e0fb260c70b9da874b75fbe74fc34.png",
-    "recipes": [
-      {
-        "name": "Bluegrain by jyota tomonori",
-        "id": "01KHT2TWJRWN1HW2114GYBB3XD",
-        "detailUrl": "/recipe/release/detail/?id=01KHT2TWJRWN1HW2114GYBB3XD"
       }
     ]
   },
